@@ -1,0 +1,2324 @@
+[
+  {
+    "id": "cnd_0001",
+    "name": {
+      "display": "Herbert von Karajan",
+      "native": "Herbert von Karajan",
+      "kor": "헤르베르트 폰 카라얀"
+    },
+    "birth": {
+      "date": "1908-04-05",
+      "place": "Salzburg"
+    },
+    "death": {
+      "date": "1989-07-16",
+      "place": "Anif"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0002",
+    "name": {
+      "display": "Claudio Abbado",
+      "native": "Claudio Abbado",
+      "kor": "클라우디오 아바도"
+    },
+    "birth": {
+      "date": "1933-06-26",
+      "place": "Milan"
+    },
+    "death": {
+      "date": "2014-01-20",
+      "place": "Bologna"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0003",
+    "name": {
+      "display": "Leonard Bernstein",
+      "native": "Leonard Bernstein",
+      "kor": "레너드 번스타인"
+    },
+    "birth": {
+      "date": "1918-08-25",
+      "place": "Lawrence, Massachusetts"
+    },
+    "death": {
+      "date": "1990-10-14",
+      "place": "New York City"
+    },
+    "nationality": [
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0004",
+    "name": {
+      "display": "Wilhelm Furtwängler",
+      "native": "Wilhelm Furtwängler",
+      "kor": "빌헬름 푸르트벵글러"
+    },
+    "birth": {
+      "date": "1886-01-25",
+      "place": "Berlin"
+    },
+    "death": {
+      "date": "1954-11-30",
+      "place": "Ebersteinburg"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0005",
+    "name": {
+      "display": "Arturo Toscanini",
+      "native": "Arturo Toscanini",
+      "kor": "아르투로 토스카니니"
+    },
+    "birth": {
+      "date": "1867-03-25",
+      "place": "Parma"
+    },
+    "death": {
+      "date": "1957-01-16",
+      "place": "New York City"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0006",
+    "name": {
+      "display": "Carlos Kleiber",
+      "native": "Carlos Kleiber",
+      "kor": "카를로스 클라이버"
+    },
+    "birth": {
+      "date": "1930-07-03",
+      "place": "Berlin"
+    },
+    "death": {
+      "date": "2004-07-13",
+      "place": "Konjšica"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0007",
+    "name": {
+      "display": "Georg Solti",
+      "native": "Solti György",
+      "kor": "게오르그 솔티"
+    },
+    "birth": {
+      "date": "1912-10-21",
+      "place": "Budapest"
+    },
+    "death": {
+      "date": "1997-09-05",
+      "place": "Antibes"
+    },
+    "nationality": [
+      "Hungary",
+      "United Kingdom"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0008",
+    "name": {
+      "display": "Bruno Walter",
+      "native": "Bruno Walter",
+      "kor": "브루노 발터"
+    },
+    "birth": {
+      "date": "1876-09-15",
+      "place": "Berlin"
+    },
+    "death": {
+      "date": "1962-02-17",
+      "place": "Beverly Hills, California"
+    },
+    "nationality": [
+      "Germany",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0009",
+    "name": {
+      "display": "Otto Klemperer",
+      "native": "Otto Klemperer",
+      "kor": "오토 클렘페러"
+    },
+    "birth": {
+      "date": "1885-05-14",
+      "place": "Breslau"
+    },
+    "death": {
+      "date": "1973-07-06",
+      "place": "Zürich"
+    },
+    "nationality": [
+      "Germany",
+      "United States",
+      "Israel"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0010",
+    "name": {
+      "display": "Eugen Jochum",
+      "native": "Eugen Jochum",
+      "kor": "오이겐 요훔"
+    },
+    "birth": {
+      "date": "1902-11-01",
+      "place": "Babenhausen"
+    },
+    "death": {
+      "date": "1987-03-26",
+      "place": "Munich"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0011",
+    "name": {
+      "display": "Karl Böhm",
+      "native": "Karl Böhm",
+      "kor": "카를 뵘"
+    },
+    "birth": {
+      "date": "1894-08-28",
+      "place": "Graz"
+    },
+    "death": {
+      "date": "1981-08-14",
+      "place": "Salzburg"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0012",
+    "name": {
+      "display": "Sergiu Celibidache",
+      "native": "Sergiu Celibidache",
+      "kor": "세르주 첼리비다케"
+    },
+    "birth": {
+      "date": "1912-07-11",
+      "place": "Roman"
+    },
+    "death": {
+      "date": "1996-08-14",
+      "place": "La Neuville-sur-Essonne"
+    },
+    "nationality": [
+      "Romania"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0013",
+    "name": {
+      "display": "Pierre Boulez",
+      "native": "Pierre Boulez",
+      "kor": "피에르 불레즈"
+    },
+    "birth": {
+      "date": "1925-03-26",
+      "place": "Montbrison"
+    },
+    "death": {
+      "date": "2016-01-05",
+      "place": "Baden-Baden"
+    },
+    "nationality": [
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0014",
+    "name": {
+      "display": "Lorin Maazel",
+      "native": "Lorin Maazel",
+      "kor": "로린 마젤"
+    },
+    "birth": {
+      "date": "1930-03-06",
+      "place": "Neuilly-sur-Seine"
+    },
+    "death": {
+      "date": "2014-07-13",
+      "place": "Castleton, Virginia"
+    },
+    "nationality": [
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0015",
+    "name": {
+      "display": "Bernard Haitink",
+      "native": "Bernard Haitink",
+      "kor": "베르나르트 하이팅크"
+    },
+    "birth": {
+      "date": "1929-03-04",
+      "place": "Amsterdam"
+    },
+    "death": {
+      "date": "2021-10-21",
+      "place": "London"
+    },
+    "nationality": [
+      "Netherlands"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0016",
+    "name": {
+      "display": "Riccardo Muti",
+      "native": "Riccardo Muti",
+      "kor": "리카르도 무티"
+    },
+    "birth": {
+      "date": "1941-07-28",
+      "place": "Naples"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0017",
+    "name": {
+      "display": "Daniel Barenboim",
+      "native": "Daniel Barenboim",
+      "kor": "다니엘 바렌보임"
+    },
+    "birth": {
+      "date": "1942-11-15",
+      "place": "Buenos Aires"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Argentina",
+      "Israel",
+      "Spain",
+      "Palestine"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0018",
+    "name": {
+      "display": "Simon Rattle",
+      "native": "Simon Rattle",
+      "kor": "사이먼 래틀"
+    },
+    "birth": {
+      "date": "1955-01-19",
+      "place": "Liverpool"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "United Kingdom",
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0019",
+    "name": {
+      "display": "Mariss Jansons",
+      "native": "Mariss Jansons",
+      "kor": "마리스 얀손스"
+    },
+    "birth": {
+      "date": "1943-01-14",
+      "place": "Riga"
+    },
+    "death": {
+      "date": "2019-11-30",
+      "place": "Saint Petersburg"
+    },
+    "nationality": [
+      "Latvia"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0020",
+    "name": {
+      "display": "Seiji Ozawa",
+      "native": "小澤 征爾",
+      "kor": "오자와 세이지"
+    },
+    "birth": {
+      "date": "1935-09-01",
+      "place": "Mukden (Shenyang)"
+    },
+    "death": {
+      "date": "2024-02-06",
+      "place": "Tokyo"
+    },
+    "nationality": [
+      "Japan"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0021",
+    "name": {
+      "display": "Nikolaus Harnoncourt",
+      "native": "Nikolaus Harnoncourt",
+      "kor": "니콜라우스 아르농쿠르"
+    },
+    "birth": {
+      "date": "1929-12-06",
+      "place": "Berlin"
+    },
+    "death": {
+      "date": "2016-03-05",
+      "place": "Sankt Georgen im Attergau"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0022",
+    "name": {
+      "display": "John Eliot Gardiner",
+      "native": "John Eliot Gardiner",
+      "kor": "존 엘리엇 가디너"
+    },
+    "birth": {
+      "date": "1943-04-20",
+      "place": "Fontmell Magna"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "United Kingdom"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0023",
+    "name": {
+      "display": "Valery Gergiev",
+      "native": "Валерий Гергиев",
+      "kor": "발레리 게르기예프"
+    },
+    "birth": {
+      "date": "1953-05-02",
+      "place": "Moscow"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Russia"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0024",
+    "name": {
+      "display": "Gustavo Dudamel",
+      "native": "Gustavo Dudamel",
+      "kor": "구스타보 두다멜"
+    },
+    "birth": {
+      "date": "1981-01-26",
+      "place": "Barquisimeto"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Venezuela"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0025",
+    "name": {
+      "display": "Andris Nelsons",
+      "native": "Andris Nelsons",
+      "kor": "안드리스 넬손스"
+    },
+    "birth": {
+      "date": "1978-11-18",
+      "place": "Riga"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Latvia"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0026",
+    "name": {
+      "display": "Yannick Nézet-Séguin",
+      "native": "Yannick Nézet-Séguin",
+      "kor": "야니크 네제세갱"
+    },
+    "birth": {
+      "date": "1975-03-06",
+      "place": "Montreal"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Canada"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0027",
+    "name": {
+      "display": "Christian Thielemann",
+      "native": "Christian Thielemann",
+      "kor": "크리스티안 틸레만"
+    },
+    "birth": {
+      "date": "1959-04-01",
+      "place": "West Berlin"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0028",
+    "name": {
+      "display": "Kirill Petrenko",
+      "native": "Кирилл Петренко",
+      "kor": "키릴 페트렌코"
+    },
+    "birth": {
+      "date": "1972-02-11",
+      "place": "Omsk"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0029",
+    "name": {
+      "display": "Esa-Pekka Salonen",
+      "native": "Esa-Pekka Salonen",
+      "kor": "에사페카 살로넨"
+    },
+    "birth": {
+      "date": "1958-06-30",
+      "place": "Helsinki"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Finland"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0030",
+    "name": {
+      "display": "Myung-Whun Chung",
+      "native": "정명훈",
+      "kor": "정명훈"
+    },
+    "birth": {
+      "date": "1953-01-22",
+      "place": "Seoul"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "South Korea"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0031",
+    "name": {
+      "display": "George Henschel",
+      "native": "Georg Isidor Henschel",
+      "kor": "게오르크 헨셸"
+    },
+    "birth": {
+      "date": "1850-02-18",
+      "place": "Breslau"
+    },
+    "death": {
+      "date": "1934-09-10",
+      "place": "Aviemore"
+    },
+    "nationality": [
+      "United Kingdom"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0032",
+    "name": {
+      "display": "Wilhelm Gericke",
+      "native": "Wilhelm Gericke",
+      "kor": "빌헬름 게리케"
+    },
+    "birth": {
+      "date": "1845-05-18",
+      "place": "Schwanberg"
+    },
+    "death": {
+      "date": "1925-10-27",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0033",
+    "name": {
+      "display": "Arthur Nikisch",
+      "native": "Arthur Nikisch",
+      "kor": "아르투르 니키슈"
+    },
+    "birth": {
+      "date": "1855-10-12",
+      "place": "Lébény"
+    },
+    "death": {
+      "date": "1922-01-23",
+      "place": "Leipzig"
+    },
+    "nationality": [
+      "Hungary"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0034",
+    "name": {
+      "display": "Emil Paur",
+      "native": "Emil Paur",
+      "kor": "에밀 파우어"
+    },
+    "birth": {
+      "date": "1855-07-19",
+      "place": "Czernowitz"
+    },
+    "death": {
+      "date": "1932-06-07",
+      "place": "Místek"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0035",
+    "name": {
+      "display": "Karl Muck",
+      "native": "Karl Muck",
+      "kor": "카를 무크"
+    },
+    "birth": {
+      "date": "1859-10-22",
+      "place": "Darmstadt"
+    },
+    "death": {
+      "date": "1940-03-03",
+      "place": "Stuttgart"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0036",
+    "name": {
+      "display": "Max Fiedler",
+      "native": "Max Fiedler",
+      "kor": "막스 피들러"
+    },
+    "birth": {
+      "date": "1859-12-21",
+      "place": "Zittau"
+    },
+    "death": {
+      "date": "1939-12-01",
+      "place": "Stockholm"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0037",
+    "name": {
+      "display": "Serge Koussevitzky",
+      "native": "Сергей Кусевицкий",
+      "kor": "세르게이 쿠세비츠키"
+    },
+    "birth": {
+      "date": "1874-07-26",
+      "place": "Vyshny Volochyok"
+    },
+    "death": {
+      "date": "1951-06-04",
+      "place": "Boston"
+    },
+    "nationality": [
+      "Russia",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0038",
+    "name": {
+      "display": "Charles Munch",
+      "native": "Charles Münch",
+      "kor": "샤를 뮌슈"
+    },
+    "birth": {
+      "date": "1891-09-26",
+      "place": "Strasbourg"
+    },
+    "death": {
+      "date": "1968-11-06",
+      "place": "Richmond, Virginia"
+    },
+    "nationality": [
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0039",
+    "name": {
+      "display": "Erich Leinsdorf",
+      "native": "Erich Leinsdorf",
+      "kor": "에리히 라인스도르프"
+    },
+    "birth": {
+      "date": "1912-02-04",
+      "place": "Vienna"
+    },
+    "death": {
+      "date": "1993-09-11",
+      "place": "Zürich"
+    },
+    "nationality": [
+      "Austria",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0040",
+    "name": {
+      "display": "William Steinberg",
+      "native": "William Steinberg",
+      "kor": "윌리엄 스타인버그"
+    },
+    "birth": {
+      "date": "1899-08-01",
+      "place": "Cologne"
+    },
+    "death": {
+      "date": "1978-05-16",
+      "place": "New York City"
+    },
+    "nationality": [
+      "Germany",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0041",
+    "name": {
+      "display": "James Levine",
+      "native": "James Levine",
+      "kor": "제임스 레바인"
+    },
+    "birth": {
+      "date": "1943-06-23",
+      "place": "Cincinnati"
+    },
+    "death": {
+      "date": "2021-03-09",
+      "place": "Palm Springs, California"
+    },
+    "nationality": [
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0042",
+    "name": {
+      "display": "Theodore Thomas",
+      "native": "Theodore Thomas",
+      "kor": "시어도어 토머스"
+    },
+    "birth": {
+      "date": "1835-10-11",
+      "place": "Esens"
+    },
+    "death": {
+      "date": "1905-01-04",
+      "place": "Chicago"
+    },
+    "nationality": [
+      "Germany",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0043",
+    "name": {
+      "display": "Frederick Stock",
+      "native": "Frederick Stock",
+      "kor": "프레더릭 스톡"
+    },
+    "birth": {
+      "date": "1872-11-11",
+      "place": "Jülich"
+    },
+    "death": {
+      "date": "1942-10-20",
+      "place": "Chicago"
+    },
+    "nationality": [
+      "Germany",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0044",
+    "name": {
+      "display": "Désiré Defauw",
+      "native": "Désiré Defauw",
+      "kor": "데지레 드포"
+    },
+    "birth": {
+      "date": "1885-09-05",
+      "place": "Ghent"
+    },
+    "death": {
+      "date": "1960-07-25",
+      "place": "Gary, Indiana"
+    },
+    "nationality": [
+      "Belgium"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0045",
+    "name": {
+      "display": "Artur Rodziński",
+      "native": "Artur Rodziński",
+      "kor": "아르투르 로진스키"
+    },
+    "birth": {
+      "date": "1892-01-01",
+      "place": "Split"
+    },
+    "death": {
+      "date": "1958-11-27",
+      "place": "Boston"
+    },
+    "nationality": [
+      "Poland",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0046",
+    "name": {
+      "display": "Rafael Kubelík",
+      "native": "Rafael Kubelík",
+      "kor": "라파엘 쿠벨리크"
+    },
+    "birth": {
+      "date": "1914-06-29",
+      "place": "Býchory"
+    },
+    "death": {
+      "date": "1996-08-11",
+      "place": "Kastanienbaum"
+    },
+    "nationality": [
+      "Czech Republic"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0047",
+    "name": {
+      "display": "Fritz Reiner",
+      "native": "Reiner Frigyes",
+      "kor": "프리츠 라이너"
+    },
+    "birth": {
+      "date": "1888-12-19",
+      "place": "Budapest"
+    },
+    "death": {
+      "date": "1963-11-15",
+      "place": "New York City"
+    },
+    "nationality": [
+      "Hungary",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0048",
+    "name": {
+      "display": "Jean Martinon",
+      "native": "Jean Martinon",
+      "kor": "장 마르티농"
+    },
+    "birth": {
+      "date": "1910-01-10",
+      "place": "Lyon"
+    },
+    "death": {
+      "date": "1976-03-01",
+      "place": "Paris"
+    },
+    "nationality": [
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0049",
+    "name": {
+      "display": "Willem Kes",
+      "native": "Willem Kes",
+      "kor": "빌럼 케스"
+    },
+    "birth": {
+      "date": "1856-02-16",
+      "place": "Dordrecht"
+    },
+    "death": {
+      "date": "1934-02-22",
+      "place": "Munich"
+    },
+    "nationality": [
+      "Netherlands"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0050",
+    "name": {
+      "display": "Willem Mengelberg",
+      "native": "Willem Mengelberg",
+      "kor": "빌럼 멩엘베르흐"
+    },
+    "birth": {
+      "date": "1871-03-28",
+      "place": "Utrecht"
+    },
+    "death": {
+      "date": "1951-03-21",
+      "place": "Zuort"
+    },
+    "nationality": [
+      "Netherlands"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0051",
+    "name": {
+      "display": "Eduard van Beinum",
+      "native": "Eduard van Beinum",
+      "kor": "에두아르트 판 베이눔"
+    },
+    "birth": {
+      "date": "1900-09-03",
+      "place": "Arnhem"
+    },
+    "death": {
+      "date": "1959-04-13",
+      "place": "Amsterdam"
+    },
+    "nationality": [
+      "Netherlands"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0052",
+    "name": {
+      "display": "Riccardo Chailly",
+      "native": "Riccardo Chailly",
+      "kor": "리카르도 샤이"
+    },
+    "birth": {
+      "date": "1953-02-20",
+      "place": "Milan"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0053",
+    "name": {
+      "display": "Daniele Gatti",
+      "native": "Daniele Gatti",
+      "kor": "다니엘레 가티"
+    },
+    "birth": {
+      "date": "1961-11-06",
+      "place": "Milan"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0054",
+    "name": {
+      "display": "Klaus Mäkelä",
+      "native": "Klaus Mäkelä",
+      "kor": "클라우스 메켈레"
+    },
+    "birth": {
+      "date": "1996-01-17",
+      "place": "Helsinki"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Finland"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0055",
+    "name": {
+      "display": "Colin Davis",
+      "native": "Colin Davis",
+      "kor": "콜린 데이비스"
+    },
+    "birth": {
+      "date": "1927-09-25",
+      "place": "Weybridge"
+    },
+    "death": {
+      "date": "2013-04-14",
+      "place": "London"
+    },
+    "nationality": [
+      "United Kingdom"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0056",
+    "name": {
+      "display": "Walter Henry Rothwell",
+      "native": "Walter Henry Rothwell",
+      "kor": "월터 헨리 로스웰"
+    },
+    "birth": {
+      "date": "1872-09-22",
+      "place": "London"
+    },
+    "death": {
+      "date": "1927-03-13",
+      "place": "Santa Monica"
+    },
+    "nationality": [
+      "United Kingdom",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0057",
+    "name": {
+      "display": "Georg Schnéevoigt",
+      "native": "Georg Schnéevoigt",
+      "kor": "게오르크 슈네보이크트"
+    },
+    "birth": {
+      "date": "1872-11-08",
+      "place": "Vyborg"
+    },
+    "death": {
+      "date": "1947-11-28",
+      "place": "Malmö"
+    },
+    "nationality": [
+      "Finland"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0058",
+    "name": {
+      "display": "Alfred Wallenstein",
+      "native": "Alfred Wallenstein",
+      "kor": "알프레드 월렌스타인"
+    },
+    "birth": {
+      "date": "1898-10-07",
+      "place": "Chicago"
+    },
+    "death": {
+      "date": "1983-02-08",
+      "place": "New York City"
+    },
+    "nationality": [
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0059",
+    "name": {
+      "display": "Zubin Mehta",
+      "native": "Zubin Mehta",
+      "kor": "주빈 메타"
+    },
+    "birth": {
+      "date": "1936-04-29",
+      "place": "Bombay"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "India"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0060",
+    "name": {
+      "display": "Carlo Maria Giulini",
+      "native": "Carlo Maria Giulini",
+      "kor": "카를로 마리아 줄리니"
+    },
+    "birth": {
+      "date": "1914-05-09",
+      "place": "Barletta"
+    },
+    "death": {
+      "date": "2005-06-14",
+      "place": "Brescia"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0061",
+    "name": {
+      "display": "André Previn",
+      "native": "André Previn",
+      "kor": "앙드레 프레빈"
+    },
+    "birth": {
+      "date": "1929-04-06",
+      "place": "Berlin"
+    },
+    "death": {
+      "date": "2019-02-28",
+      "place": "New York City"
+    },
+    "nationality": [
+      "United States",
+      "United Kingdom"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0062",
+    "name": {
+      "display": "Henry Hadley",
+      "native": "Henry Hadley",
+      "kor": "헨리 해들리"
+    },
+    "birth": {
+      "date": "1871-12-20",
+      "place": "Somerville, Massachusetts"
+    },
+    "death": {
+      "date": "1937-09-06",
+      "place": "New York City"
+    },
+    "nationality": [
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0063",
+    "name": {
+      "display": "Alfred Hertz",
+      "native": "Alfred Hertz",
+      "kor": "알프레드 헤르츠"
+    },
+    "birth": {
+      "date": "1872-07-15",
+      "place": "Frankfurt"
+    },
+    "death": {
+      "date": "1942-04-17",
+      "place": "San Francisco"
+    },
+    "nationality": [
+      "Germany",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0064",
+    "name": {
+      "display": "Issay Dobrowen",
+      "native": "Issay Dobrowen",
+      "kor": "이사이 도브로벤"
+    },
+    "birth": {
+      "date": "1891-02-27",
+      "place": "Nizhny Novgorod"
+    },
+    "death": {
+      "date": "1953-12-09",
+      "place": "Oslo"
+    },
+    "nationality": [
+      "Russia",
+      "Norway"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0065",
+    "name": {
+      "display": "Basil Cameron",
+      "native": "Basil Cameron",
+      "kor": "베이질 캐머런"
+    },
+    "birth": {
+      "date": "1884-08-18",
+      "place": "Reading"
+    },
+    "death": {
+      "date": "1975-06-26",
+      "place": "Leominster"
+    },
+    "nationality": [
+      "United Kingdom"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0066",
+    "name": {
+      "display": "Pierre Monteux",
+      "native": "Pierre Monteux",
+      "kor": "피에르 몽퇴"
+    },
+    "birth": {
+      "date": "1875-04-04",
+      "place": "Paris"
+    },
+    "death": {
+      "date": "1964-07-01",
+      "place": "Hancock, Maine"
+    },
+    "nationality": [
+      "France",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0067",
+    "name": {
+      "display": "Enrique Jordá",
+      "native": "Enrique Jordá",
+      "kor": "엔리케 호르다"
+    },
+    "birth": {
+      "date": "1911-03-24",
+      "place": "San Sebastián"
+    },
+    "death": {
+      "date": "1996-03-18",
+      "place": "Brussels"
+    },
+    "nationality": [
+      "Spain"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0068",
+    "name": {
+      "display": "Josef Krips",
+      "native": "Josef Krips",
+      "kor": "요제프 크립스"
+    },
+    "birth": {
+      "date": "1902-04-08",
+      "place": "Vienna"
+    },
+    "death": {
+      "date": "1974-10-13",
+      "place": "Geneva"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0069",
+    "name": {
+      "display": "Edo de Waart",
+      "native": "Edo de Waart",
+      "kor": "에도 데 바르트"
+    },
+    "birth": {
+      "date": "1941-06-01",
+      "place": "Amsterdam"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Netherlands"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0070",
+    "name": {
+      "display": "Herbert Blomstedt",
+      "native": "Herbert Blomstedt",
+      "kor": "헤르베르트 블롬슈테트"
+    },
+    "birth": {
+      "date": "1927-07-11",
+      "place": "Springfield, Massachusetts"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Sweden"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0071",
+    "name": {
+      "display": "Michael Tilson Thomas",
+      "native": "Michael Tilson Thomas",
+      "kor": "마이클 틸슨 토머스"
+    },
+    "birth": {
+      "date": "1944-12-21",
+      "place": "Los Angeles"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0072",
+    "name": {
+      "display": "Nikolai Sokoloff",
+      "native": "Nikolai Sokoloff",
+      "kor": "니콜라이 소콜로프"
+    },
+    "birth": {
+      "date": "1886-05-28",
+      "place": "Kyiv"
+    },
+    "death": {
+      "date": "1965-09-25",
+      "place": "La Jolla, California"
+    },
+    "nationality": [
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0073",
+    "name": {
+      "display": "George Szell",
+      "native": "George Szell",
+      "kor": "조지 셀"
+    },
+    "birth": {
+      "date": "1897-06-07",
+      "place": "Budapest"
+    },
+    "death": {
+      "date": "1970-07-30",
+      "place": "Cleveland"
+    },
+    "nationality": [
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0074",
+    "name": {
+      "display": "Christoph von Dohnányi",
+      "native": "Christoph von Dohnányi",
+      "kor": "크리스토프 폰 도흐나니"
+    },
+    "birth": {
+      "date": "1929-09-08",
+      "place": "Berlin"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0075",
+    "name": {
+      "display": "Franz Welser-Möst",
+      "native": "Franz Welser-Möst",
+      "kor": "프란츠 벨저뫼스트"
+    },
+    "birth": {
+      "date": "1960-08-16",
+      "place": "Linz"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0076",
+    "name": {
+      "display": "Manfred Honeck",
+      "native": "Manfred Honeck",
+      "kor": "만프레트 호네크"
+    },
+    "birth": {
+      "date": "1958-09-17",
+      "place": "Nenzing"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0077",
+    "name": {
+      "display": "Sakari Oramo",
+      "native": "Sakari Oramo",
+      "kor": "사카리 오라모"
+    },
+    "birth": {
+      "date": "1965-10-26",
+      "place": "Helsinki"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Finland"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0078",
+    "name": {
+      "display": "Mirga Gražinytė-Tyla",
+      "native": "Mirga Gražinytė-Tyla",
+      "kor": "미르가 그라지니테틸라"
+    },
+    "birth": {
+      "date": "1986-08-29",
+      "place": "Vilnius"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Lithuania"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0079",
+    "name": {
+      "display": "Lahav Shani",
+      "native": "Lahav Shani",
+      "kor": "라하브 샤니"
+    },
+    "birth": {
+      "date": "1989-01-07",
+      "place": "Tel Aviv"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Israel"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0080",
+    "name": {
+      "display": "Michael Gielen",
+      "native": "Michael Gielen",
+      "kor": "미하엘 길렌"
+    },
+    "birth": {
+      "date": "1927-07-20",
+      "place": "Dresden"
+    },
+    "death": {
+      "date": "2019-03-08",
+      "place": "Mondsee"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0081",
+    "name": {
+      "display": "Sylvain Cambreling",
+      "native": "Sylvain Cambreling",
+      "kor": "실뱅 캉브를랭"
+    },
+    "birth": {
+      "date": "1948-07-02",
+      "place": "Amiens"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0082",
+    "name": {
+      "display": "Paolo Carignani",
+      "native": "Paolo Carignani",
+      "kor": "파올로 카리냐니"
+    },
+    "birth": {
+      "date": "1961-01-01",
+      "place": "Milan"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0083",
+    "name": {
+      "display": "Sebastian Weigle",
+      "native": "Sebastian Weigle",
+      "kor": "제바스티안 바이글레"
+    },
+    "birth": {
+      "date": "1961-01-01",
+      "place": "Berlin"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0084",
+    "name": {
+      "display": "Thomas Guggeis",
+      "native": "Thomas Guggeis",
+      "kor": "토마스 구가이스"
+    },
+    "birth": {
+      "date": "1993-09-24",
+      "place": "Dachau"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0085",
+    "name": {
+      "display": "Osmo Vänskä",
+      "native": "Osmo Vänskä",
+      "kor": "오스모 벤스케"
+    },
+    "birth": {
+      "date": "1953-02-28",
+      "place": "Sääminki"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Finland"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0086",
+    "name": {
+      "display": "Jaap van Zweden",
+      "native": "Jaap van Zweden",
+      "kor": "얍 판 츠베덴"
+    },
+    "birth": {
+      "date": "1960-12-12",
+      "place": "Amsterdam"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Netherlands"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0087",
+    "name": {
+      "display": "Vladimir Jurowski",
+      "native": "Владимир Юровский",
+      "kor": "블라디미르 유로프스키"
+    },
+    "birth": {
+      "date": "1972-04-04",
+      "place": "Moscow"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Russia",
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0088",
+    "name": {
+      "display": "Otmar Suitner",
+      "native": "Otmar Suitner",
+      "kor": "오트마르 주이트너"
+    },
+    "birth": {
+      "date": "1922-05-16",
+      "place": "Innsbruck"
+    },
+    "death": {
+      "date": "2010-01-08",
+      "place": "Berlin"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0089",
+    "name": {
+      "display": "Klaus Tennstedt",
+      "native": "Klaus Tennstedt",
+      "kor": "클라우스 텐슈테트"
+    },
+    "birth": {
+      "date": "1926-06-06",
+      "place": "Merseburg"
+    },
+    "death": {
+      "date": "1998-01-11",
+      "place": "Kiel"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0090",
+    "name": {
+      "display": "Kurt Masur",
+      "native": "Kurt Masur",
+      "kor": "쿠르트 마주어"
+    },
+    "birth": {
+      "date": "1927-07-18",
+      "place": "Brieg"
+    },
+    "death": {
+      "date": "2015-12-19",
+      "place": "Greenwich, Connecticut"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0091",
+    "name": {
+      "display": "Johann Adam Hiller",
+      "native": "Johann Adam Hiller",
+      "kor": "요한 아담 힐러"
+    },
+    "birth": {
+      "date": "1728-12-25",
+      "place": "Wendisch-Ossig"
+    },
+    "death": {
+      "date": "1804-06-16",
+      "place": "Leipzig"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0092",
+    "name": {
+      "display": "Johann Gottfried Schicht",
+      "native": "Johann Gottfried Schicht",
+      "kor": "요한 고트프리트 시히트"
+    },
+    "birth": {
+      "date": "1753-09-29",
+      "place": "Reichenau, Saxony"
+    },
+    "death": {
+      "date": "1823-02-16",
+      "place": "Leipzig"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0093",
+    "name": {
+      "display": "Johann Philipp Christian Schulz",
+      "native": "Johann Philipp Christian Schulz",
+      "kor": "요한 필리프 크리스티안 슐츠"
+    },
+    "birth": {
+      "date": "1773-09-24",
+      "place": "Bad Langensalza"
+    },
+    "death": {
+      "date": "1827-01-30",
+      "place": "Leipzig"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0094",
+    "name": {
+      "display": "Christian August Pohlenz",
+      "native": "Christian August Pohlenz",
+      "kor": "크리스티안 아우구스트 폴렌츠"
+    },
+    "birth": {
+      "date": "1790-07-03",
+      "place": "Großbothen"
+    },
+    "death": {
+      "date": "1843-03-10",
+      "place": "Leipzig"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0095",
+    "name": {
+      "display": "Felix Mendelssohn Bartholdy",
+      "native": "Felix Mendelssohn Bartholdy",
+      "kor": "펠릭스 멘델스존 바르톨디"
+    },
+    "birth": {
+      "date": "1809-02-03",
+      "place": "Hamburg"
+    },
+    "death": {
+      "date": "1847-11-04",
+      "place": "Leipzig"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0096",
+    "name": {
+      "display": "Ferdinand David",
+      "native": "Ferdinand David",
+      "kor": "페르디난트 다비트"
+    },
+    "birth": {
+      "date": "1810-01-19",
+      "place": "Hamburg"
+    },
+    "death": {
+      "date": "1873-07-18",
+      "place": "Klosters"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0097",
+    "name": {
+      "display": "Ferdinand Hiller",
+      "native": "Ferdinand Hiller",
+      "kor": "페르디난트 힐러"
+    },
+    "birth": {
+      "date": "1811-10-24",
+      "place": "Frankfurt am Main"
+    },
+    "death": {
+      "date": "1885-05-11",
+      "place": "Cologne"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0098",
+    "name": {
+      "display": "Niels Wilhelm Gade",
+      "native": "Niels Wilhelm Gade",
+      "kor": "닐스 빌헬름 가데"
+    },
+    "birth": {
+      "date": "1817-02-22",
+      "place": "Copenhagen"
+    },
+    "death": {
+      "date": "1890-12-21",
+      "place": "Copenhagen"
+    },
+    "nationality": [
+      "Denmark"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0099",
+    "name": {
+      "display": "Julius Rietz",
+      "native": "Julius Rietz",
+      "kor": "율리우스 리츠"
+    },
+    "birth": {
+      "date": "1812-12-28",
+      "place": "Berlin"
+    },
+    "death": {
+      "date": "1877-09-12",
+      "place": "Dresden"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0100",
+    "name": {
+      "display": "Carl Reinecke",
+      "native": "Carl Reinecke",
+      "kor": "카를 라이네케"
+    },
+    "birth": {
+      "date": "1824-06-23",
+      "place": "Altona"
+    },
+    "death": {
+      "date": "1910-03-10",
+      "place": "Leipzig"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0101",
+    "name": {
+      "display": "Hermann Abendroth",
+      "native": "Hermann Abendroth",
+      "kor": "헤르만 아벤트로트"
+    },
+    "birth": {
+      "date": "1883-01-19",
+      "place": "Frankfurt am Main"
+    },
+    "death": {
+      "date": "1956-05-29",
+      "place": "Jena"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0102",
+    "name": {
+      "display": "Herbert Albert",
+      "native": "Herbert Albert",
+      "kor": "헤르베르트 알베르트"
+    },
+    "birth": {
+      "date": "1903-12-26",
+      "place": "Bad Lausick"
+    },
+    "death": {
+      "date": "1973-09-15",
+      "place": "Bad Reichenhall"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0103",
+    "name": {
+      "display": "Franz Konwitschny",
+      "native": "Franz Konwitschny",
+      "kor": "프란츠 콘비치니"
+    },
+    "birth": {
+      "date": "1901-08-14",
+      "place": "Fulnek"
+    },
+    "death": {
+      "date": "1962-07-28",
+      "place": "Belgrade"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0104",
+    "name": {
+      "display": "Václav Neumann",
+      "native": "Václav Neumann",
+      "kor": "바츨라프 노이만"
+    },
+    "birth": {
+      "date": "1920-09-29",
+      "place": "Prague"
+    },
+    "death": {
+      "date": "1995-09-02",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Czech Republic"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0105",
+    "name": {
+      "display": "Semyon Bychkov",
+      "native": "Семён Бычков",
+      "kor": "세묜 비치코프"
+    },
+    "birth": {
+      "date": "1952-11-30",
+      "place": "Leningrad"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0106",
+    "name": {
+      "display": "Christoph Eschenbach",
+      "native": "Christoph Eschenbach",
+      "kor": "크리스토프 에셴바흐"
+    },
+    "birth": {
+      "date": "1940-02-20",
+      "place": "Breslau"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0107",
+    "name": {
+      "display": "Paavo Järvi",
+      "native": "Paavo Järvi",
+      "kor": "파보 예르비"
+    },
+    "birth": {
+      "date": "1962-12-30",
+      "place": "Tallinn"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Estonia",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0108",
+    "name": {
+      "display": "Daniel Harding",
+      "native": "Daniel Harding",
+      "kor": "대니얼 하딩"
+    },
+    "birth": {
+      "date": "1975-08-31",
+      "place": "Oxford"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "United Kingdom"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0109",
+    "name": {
+      "display": "Hans Richter",
+      "native": "Hans Richter",
+      "kor": "한스 리히터"
+    },
+    "birth": {
+      "date": "1843-04-04",
+      "place": "Raab"
+    },
+    "death": {
+      "date": "1916-12-05",
+      "place": "Bayreuth"
+    },
+    "nationality": [
+      "Hungary"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0110",
+    "name": {
+      "display": "Thomas Beecham",
+      "native": "Thomas Beecham",
+      "kor": "토머스 비첨"
+    },
+    "birth": {
+      "date": "1879-04-29",
+      "place": "St Helens"
+    },
+    "death": {
+      "date": "1961-03-08",
+      "place": "London"
+    },
+    "nationality": [
+      "United Kingdom"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0111",
+    "name": {
+      "display": "Albert Coates",
+      "native": "Albert Coates",
+      "kor": "앨버트 코츠"
+    },
+    "birth": {
+      "date": "1882-04-23",
+      "place": "Saint Petersburg"
+    },
+    "death": {
+      "date": "1953-12-11",
+      "place": "Cape Town"
+    },
+    "nationality": [
+      "United Kingdom"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0112",
+    "name": {
+      "display": "Eduard Flipse",
+      "native": "Eduard Flipse",
+      "kor": "에두아르트 플립서"
+    },
+    "birth": {
+      "date": "1896-02-26",
+      "place": "Wissenkerke"
+    },
+    "death": {
+      "date": "1973-09-12",
+      "place": "Breda"
+    },
+    "nationality": [
+      "Netherlands"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0113",
+    "name": {
+      "display": "Jean Fournet",
+      "native": "Jean Fournet",
+      "kor": "장 푸르네"
+    },
+    "birth": {
+      "date": "1913-04-14",
+      "place": "Rouen"
+    },
+    "death": {
+      "date": "2008-11-03",
+      "place": "Hilversum"
+    },
+    "nationality": [
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0114",
+    "name": {
+      "display": "James Conlon",
+      "native": "James Conlon",
+      "kor": "제임스 콘론"
+    },
+    "birth": {
+      "date": "1950-03-18",
+      "place": "New York City"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cnd_0115",
+    "name": {
+      "display": "Mikko Franck",
+      "native": "Mikko Ilmari Franck",
+      "kor": "미코 프랑크"
+    },
+    "birth": {
+      "date": "1979-04-01",
+      "place": "Helsinki"
+    },
+    "death": {
+      "date": null,
+      "place": null
+    },
+    "nationality": [
+      "Finland"
+    ],
+    "image": null
+  }
+]

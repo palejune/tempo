@@ -1,0 +1,3189 @@
+[
+  {
+    "id": "orch_0001",
+    "type": "orchestra",
+    "name": {
+      "display": "Berliner Philharmoniker",
+      "native": "Berliner Philharmoniker",
+      "kor": "베를린 필하모닉"
+    },
+    "founded": 1882,
+    "location": {
+      "city": "Berlin",
+      "country": "DE",
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0004",
+        "conductor_name": "Wilhelm Furtwängler",
+        "role": "chief_conductor",
+        "start": "1922",
+        "end": "1934"
+      },
+      {
+        "conductor_id": "cnd_0012",
+        "conductor_name": "Sergiu Celibidache",
+        "role": "acting_principal_conductor",
+        "start": "1945",
+        "end": "1952"
+      },
+      {
+        "conductor_id": "cnd_0004",
+        "conductor_name": "Wilhelm Furtwängler",
+        "role": "chief_conductor",
+        "start": "1952",
+        "end": "1954"
+      },
+      {
+        "conductor_id": "cnd_0001",
+        "conductor_name": "Herbert von Karajan",
+        "role": "chief_conductor",
+        "start": "1956",
+        "end": "1989"
+      },
+      {
+        "conductor_id": "cnd_0002",
+        "conductor_name": "Claudio Abbado",
+        "role": "chief_conductor",
+        "start": "1990",
+        "end": "2002"
+      },
+      {
+        "conductor_id": "cnd_0018",
+        "conductor_name": "Simon Rattle",
+        "role": "chief_conductor_artistic_director",
+        "start": "2002",
+        "end": "2018"
+      },
+      {
+        "conductor_id": "cnd_0028",
+        "conductor_name": "Kirill Petrenko",
+        "role": "chief_conductor_artistic_director",
+        "start": "2019",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0002",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Vienna State Opera",
+      "native": "Wiener Staatsoper",
+      "kor": "빈 국립오페라"
+    },
+    "founded": 1869,
+    "location": {
+      "city": "Vienna",
+      "country": "AT",
+      "lat": 48.2033,
+      "lng": 16.3696
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0008",
+        "conductor_name": "Bruno Walter",
+        "role": "music_director",
+        "start": "1901",
+        "end": "1912"
+      },
+      {
+        "conductor_id": "cnd_0011",
+        "conductor_name": "Karl Böhm",
+        "role": "director",
+        "start": "1943",
+        "end": "1945"
+      },
+      {
+        "conductor_id": "cnd_0011",
+        "conductor_name": "Karl Böhm",
+        "role": "director",
+        "start": "1954",
+        "end": "1956"
+      },
+      {
+        "conductor_id": "cnd_0001",
+        "conductor_name": "Herbert von Karajan",
+        "role": "artistic_director",
+        "start": "1957",
+        "end": "1964"
+      },
+      {
+        "conductor_id": "cnd_0014",
+        "conductor_name": "Lorin Maazel",
+        "role": "general_manager_chief_conductor",
+        "start": "1982",
+        "end": "1984"
+      },
+      {
+        "conductor_id": "cnd_0002",
+        "conductor_name": "Claudio Abbado",
+        "role": "music_director",
+        "start": "1986",
+        "end": "1991"
+      },
+      {
+        "conductor_id": "cnd_0027",
+        "conductor_name": "Christian Thielemann",
+        "role": "general_music_director",
+        "start": "2024",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0003",
+    "type": "orchestra",
+    "name": {
+      "display": "Staatskapelle Berlin",
+      "native": "Staatskapelle Berlin",
+      "kor": "슈타츠카펠레 베를린"
+    },
+    "founded": 1570,
+    "location": {
+      "city": "Berlin",
+      "country": "DE",
+      "lat": 52.517,
+      "lng": 13.3955
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0004",
+        "conductor_name": "Wilhelm Furtwängler",
+        "role": "conductor",
+        "start": "1920",
+        "end": "1922"
+      },
+      {
+        "conductor_id": "cnd_0001",
+        "conductor_name": "Herbert von Karajan",
+        "role": "staatskapellmeister",
+        "start": "1941",
+        "end": "1945"
+      },
+      {
+        "conductor_id": "cnd_0088",
+        "conductor_name": "Otmar Suitner",
+        "role": "general_music_director",
+        "start": "1964",
+        "end": "1990"
+      },
+      {
+        "conductor_id": "cnd_0017",
+        "conductor_name": "Daniel Barenboim",
+        "role": "general_music_director",
+        "start": "1992",
+        "end": "2023"
+      },
+      {
+        "conductor_id": "cnd_0027",
+        "conductor_name": "Christian Thielemann",
+        "role": "general_music_director",
+        "start": "2024",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0004",
+    "type": "orchestra",
+    "name": {
+      "display": "Vienna Symphony",
+      "native": "Wiener Symphoniker",
+      "kor": "빈 심포니"
+    },
+    "founded": 1900,
+    "location": {
+      "city": "Vienna",
+      "country": "AT",
+      "lat": 48.2,
+      "lng": 16.37
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0004",
+        "conductor_name": "Wilhelm Furtwängler",
+        "role": "conductor",
+        "start": "1927",
+        "end": "1930"
+      },
+      {
+        "conductor_id": "cnd_0001",
+        "conductor_name": "Herbert von Karajan",
+        "role": "concert_director",
+        "start": "1948",
+        "end": "1964"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0005",
+    "type": "orchestra",
+    "name": {
+      "display": "Gewandhausorchester Leipzig",
+      "native": "Gewandhausorchester Leipzig",
+      "kor": "라이프치히 게반트하우스 오케스트라"
+    },
+    "founded": 1743,
+    "location": {
+      "city": "Leipzig",
+      "country": "DE",
+      "lat": 51.3397,
+      "lng": 12.3731
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0091",
+        "conductor_name": "Johann Adam Hiller",
+        "role": "gewandhauskapellmeister",
+        "start": "1781",
+        "end": "1785"
+      },
+      {
+        "conductor_id": "cnd_0092",
+        "conductor_name": "Johann Gottfried Schicht",
+        "role": "gewandhauskapellmeister",
+        "start": "1785",
+        "end": "1810"
+      },
+      {
+        "conductor_id": "cnd_0093",
+        "conductor_name": "Johann Philipp Christian Schulz",
+        "role": "gewandhauskapellmeister",
+        "start": "1810",
+        "end": "1827"
+      },
+      {
+        "conductor_id": "cnd_0094",
+        "conductor_name": "Christian August Pohlenz",
+        "role": "gewandhauskapellmeister",
+        "start": "1827",
+        "end": "1835"
+      },
+      {
+        "conductor_id": "cnd_0095",
+        "conductor_name": "Felix Mendelssohn Bartholdy",
+        "role": "gewandhauskapellmeister",
+        "start": "1835",
+        "end": "1847"
+      },
+      {
+        "conductor_id": "cnd_0096",
+        "conductor_name": "Ferdinand David",
+        "role": "gewandhauskapellmeister",
+        "start": "1841/1842",
+        "end": "1854"
+      },
+      {
+        "conductor_id": "cnd_0097",
+        "conductor_name": "Ferdinand Hiller",
+        "role": "gewandhauskapellmeister",
+        "start": "1843/1844",
+        "end": "1844"
+      },
+      {
+        "conductor_id": "cnd_0098",
+        "conductor_name": "Niels Wilhelm Gade",
+        "role": "gewandhauskapellmeister",
+        "start": "1844",
+        "end": "1848"
+      },
+      {
+        "conductor_id": "cnd_0099",
+        "conductor_name": "Julius Rietz",
+        "role": "gewandhauskapellmeister",
+        "start": "1848",
+        "end": "1860"
+      },
+      {
+        "conductor_id": "cnd_0100",
+        "conductor_name": "Carl Reinecke",
+        "role": "gewandhauskapellmeister",
+        "start": "1860",
+        "end": "1895"
+      },
+      {
+        "conductor_id": "cnd_0033",
+        "conductor_name": "Arthur Nikisch",
+        "role": "gewandhauskapellmeister",
+        "start": "1895",
+        "end": "1922"
+      },
+      {
+        "conductor_id": "cnd_0004",
+        "conductor_name": "Wilhelm Furtwängler",
+        "role": "gewandhauskapellmeister",
+        "start": "1922",
+        "end": "1928"
+      },
+      {
+        "conductor_id": "cnd_0008",
+        "conductor_name": "Bruno Walter",
+        "role": "gewandhauskapellmeister",
+        "start": "1929",
+        "end": "1933"
+      },
+      {
+        "conductor_id": "cnd_0101",
+        "conductor_name": "Hermann Abendroth",
+        "role": "gewandhauskapellmeister",
+        "start": "1934",
+        "end": "1945"
+      },
+      {
+        "conductor_id": "cnd_0102",
+        "conductor_name": "Herbert Albert",
+        "role": "gewandhauskapellmeister",
+        "start": "1946",
+        "end": "1948"
+      },
+      {
+        "conductor_id": "cnd_0103",
+        "conductor_name": "Franz Konwitschny",
+        "role": "gewandhauskapellmeister",
+        "start": "1949",
+        "end": "1962"
+      },
+      {
+        "conductor_id": "cnd_0104",
+        "conductor_name": "Václav Neumann",
+        "role": "gewandhauskapellmeister",
+        "start": "1964",
+        "end": "1968"
+      },
+      {
+        "conductor_id": "cnd_0090",
+        "conductor_name": "Kurt Masur",
+        "role": "gewandhauskapellmeister",
+        "start": "1970",
+        "end": "1996"
+      },
+      {
+        "conductor_id": "cnd_0070",
+        "conductor_name": "Herbert Blomstedt",
+        "role": "gewandhauskapellmeister",
+        "start": "1998",
+        "end": "2005"
+      },
+      {
+        "conductor_id": "cnd_0052",
+        "conductor_name": "Riccardo Chailly",
+        "role": "gewandhauskapellmeister",
+        "start": "2005",
+        "end": "2016"
+      },
+      {
+        "conductor_id": "cnd_0025",
+        "conductor_name": "Andris Nelsons",
+        "role": "gewandhauskapellmeister",
+        "start": "2018",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "institutional_history_verified"
+  },
+  {
+    "id": "orch_0006",
+    "type": "orchestra",
+    "name": {
+      "display": "New York Philharmonic",
+      "native": "New York Philharmonic",
+      "kor": "뉴욕 필하모닉"
+    },
+    "founded": 1842,
+    "location": {
+      "city": "New York City",
+      "country": "US",
+      "lat": 40.7725,
+      "lng": -73.9835
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0005",
+        "conductor_name": "Arturo Toscanini",
+        "role": "music_director",
+        "start": "1928",
+        "end": "1936"
+      },
+      {
+        "conductor_id": "cnd_0003",
+        "conductor_name": "Leonard Bernstein",
+        "role": "assistant_conductor",
+        "start": "1943",
+        "end": "1944"
+      },
+      {
+        "conductor_id": "cnd_0008",
+        "conductor_name": "Bruno Walter",
+        "role": "music_adviser",
+        "start": "1947",
+        "end": "1949"
+      },
+      {
+        "conductor_id": "cnd_0003",
+        "conductor_name": "Leonard Bernstein",
+        "role": "music_director",
+        "start": "1958",
+        "end": "1969"
+      },
+      {
+        "conductor_id": "cnd_0013",
+        "conductor_name": "Pierre Boulez",
+        "role": "music_director",
+        "start": "1971",
+        "end": "1977"
+      },
+      {
+        "conductor_id": "cnd_0014",
+        "conductor_name": "Lorin Maazel",
+        "role": "music_director",
+        "start": "2002",
+        "end": "2009"
+      },
+      {
+        "conductor_id": "cnd_0024",
+        "conductor_name": "Gustavo Dudamel",
+        "role": "music_artistic_director",
+        "start": "2026",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0007",
+    "type": "orchestra",
+    "name": {
+      "display": "NBC Symphony Orchestra",
+      "native": "NBC Symphony Orchestra",
+      "kor": "NBC 심포니 오케스트라"
+    },
+    "founded": 1937,
+    "location": {
+      "city": "New York City",
+      "country": "US",
+      "lat": 40.758,
+      "lng": -73.9855
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0005",
+        "conductor_name": "Arturo Toscanini",
+        "role": "music_director",
+        "start": "1937",
+        "end": "1954"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0008",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "La Scala",
+      "native": "Teatro alla Scala",
+      "kor": "라 스칼라"
+    },
+    "founded": 1778,
+    "location": {
+      "city": "Milan",
+      "country": "IT",
+      "lat": 45.4676,
+      "lng": 9.1899
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0005",
+        "conductor_name": "Arturo Toscanini",
+        "role": "music_director",
+        "start": "1898",
+        "end": "1908"
+      },
+      {
+        "conductor_id": "cnd_0005",
+        "conductor_name": "Arturo Toscanini",
+        "role": "music_director",
+        "start": "1921",
+        "end": "1929"
+      },
+      {
+        "conductor_id": "cnd_0002",
+        "conductor_name": "Claudio Abbado",
+        "role": "music_director",
+        "start": "1968",
+        "end": "1986"
+      },
+      {
+        "conductor_id": "cnd_0016",
+        "conductor_name": "Riccardo Muti",
+        "role": "music_director",
+        "start": "1986",
+        "end": "2005"
+      },
+      {
+        "conductor_id": "cnd_0017",
+        "conductor_name": "Daniel Barenboim",
+        "role": "music_director",
+        "start": "2011",
+        "end": "2014"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0009",
+    "type": "orchestra",
+    "name": {
+      "display": "London Symphony Orchestra",
+      "native": "London Symphony Orchestra",
+      "kor": "런던 심포니 오케스트라"
+    },
+    "founded": 1904,
+    "location": {
+      "city": "London",
+      "country": "GB",
+      "lat": 51.52,
+      "lng": -0.095
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0109",
+        "conductor_name": "Hans Richter",
+        "role": "principal_conductor",
+        "start": "1904",
+        "end": "1911"
+      },
+      {
+        "conductor_id": "cnd_0110",
+        "conductor_name": "Thomas Beecham",
+        "role": "principal_conductor",
+        "start": "1915",
+        "end": "1916"
+      },
+      {
+        "conductor_id": "cnd_0111",
+        "conductor_name": "Albert Coates",
+        "role": "principal_conductor",
+        "start": "1919",
+        "end": "1922"
+      },
+      {
+        "conductor_id": "cnd_0066",
+        "conductor_name": "Pierre Monteux",
+        "role": "principal_conductor",
+        "start": "1961",
+        "end": "1964"
+      },
+      {
+        "conductor_id": "cnd_0061",
+        "conductor_name": "André Previn",
+        "role": "principal_conductor",
+        "start": "1968",
+        "end": "1979"
+      },
+      {
+        "conductor_id": "cnd_0002",
+        "conductor_name": "Claudio Abbado",
+        "role": "principal_conductor",
+        "start": "1979",
+        "end": "1987"
+      },
+      {
+        "conductor_id": "cnd_0023",
+        "conductor_name": "Valery Gergiev",
+        "role": "principal_conductor",
+        "start": "2007",
+        "end": "2015"
+      },
+      {
+        "conductor_id": "cnd_0018",
+        "conductor_name": "Simon Rattle",
+        "role": "music_director",
+        "start": "2017",
+        "end": "2023"
+      }
+    ],
+    "leadership_data_status": "institutional_history_partially_verified"
+  },
+  {
+    "id": "orch_0010",
+    "type": "orchestra",
+    "name": {
+      "display": "Chicago Symphony Orchestra",
+      "native": "Chicago Symphony Orchestra",
+      "kor": "시카고 심포니 오케스트라"
+    },
+    "founded": 1891,
+    "location": {
+      "city": "Chicago",
+      "country": "US",
+      "lat": 41.8796,
+      "lng": -87.6247
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0042",
+        "conductor_name": "Theodore Thomas",
+        "role": "music_director",
+        "start": "1891",
+        "end": "1905"
+      },
+      {
+        "conductor_id": "cnd_0043",
+        "conductor_name": "Frederick Stock",
+        "role": "music_director",
+        "start": "1905",
+        "end": "1942"
+      },
+      {
+        "conductor_id": "cnd_0044",
+        "conductor_name": "Désiré Defauw",
+        "role": "music_director",
+        "start": "1943",
+        "end": "1947"
+      },
+      {
+        "conductor_id": "cnd_0045",
+        "conductor_name": "Artur Rodziński",
+        "role": "music_director",
+        "start": "1947",
+        "end": "1948"
+      },
+      {
+        "conductor_id": "cnd_0046",
+        "conductor_name": "Rafael Kubelík",
+        "role": "music_director",
+        "start": "1950",
+        "end": "1953"
+      },
+      {
+        "conductor_id": "cnd_0047",
+        "conductor_name": "Fritz Reiner",
+        "role": "music_director",
+        "start": "1953",
+        "end": "1962"
+      },
+      {
+        "conductor_id": "cnd_0048",
+        "conductor_name": "Jean Martinon",
+        "role": "music_director",
+        "start": "1963",
+        "end": "1968"
+      },
+      {
+        "conductor_id": "cnd_0007",
+        "conductor_name": "Georg Solti",
+        "role": "music_director",
+        "start": "1969",
+        "end": "1991"
+      },
+      {
+        "conductor_id": "cnd_0017",
+        "conductor_name": "Daniel Barenboim",
+        "role": "music_director",
+        "start": "1991",
+        "end": "2006"
+      },
+      {
+        "conductor_id": "cnd_0016",
+        "conductor_name": "Riccardo Muti",
+        "role": "music_director",
+        "start": "2010",
+        "end": "2023"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0011",
+    "type": "orchestra",
+    "name": {
+      "display": "Boston Symphony Orchestra",
+      "native": "Boston Symphony Orchestra",
+      "kor": "보스턴 심포니 오케스트라"
+    },
+    "founded": 1881,
+    "location": {
+      "city": "Boston",
+      "country": "US",
+      "lat": 42.3429,
+      "lng": -71.0856
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0031",
+        "conductor_name": "George Henschel",
+        "role": "conductor",
+        "start": "1881",
+        "end": "1884"
+      },
+      {
+        "conductor_id": "cnd_0032",
+        "conductor_name": "Wilhelm Gericke",
+        "role": "conductor",
+        "start": "1884",
+        "end": "1889"
+      },
+      {
+        "conductor_id": "cnd_0033",
+        "conductor_name": "Arthur Nikisch",
+        "role": "conductor",
+        "start": "1889",
+        "end": "1893"
+      },
+      {
+        "conductor_id": "cnd_0034",
+        "conductor_name": "Emil Paur",
+        "role": "conductor",
+        "start": "1893",
+        "end": "1898"
+      },
+      {
+        "conductor_id": "cnd_0032",
+        "conductor_name": "Wilhelm Gericke",
+        "role": "conductor",
+        "start": "1898",
+        "end": "1906"
+      },
+      {
+        "conductor_id": "cnd_0035",
+        "conductor_name": "Karl Muck",
+        "role": "conductor",
+        "start": "1906",
+        "end": "1908"
+      },
+      {
+        "conductor_id": "cnd_0036",
+        "conductor_name": "Max Fiedler",
+        "role": "conductor",
+        "start": "1908",
+        "end": "1912"
+      },
+      {
+        "conductor_id": "cnd_0035",
+        "conductor_name": "Karl Muck",
+        "role": "conductor",
+        "start": "1912",
+        "end": "1918"
+      },
+      {
+        "conductor_id": "cnd_0037",
+        "conductor_name": "Serge Koussevitzky",
+        "role": "music_director",
+        "start": "1924",
+        "end": "1949"
+      },
+      {
+        "conductor_id": "cnd_0038",
+        "conductor_name": "Charles Munch",
+        "role": "music_director",
+        "start": "1949",
+        "end": "1962"
+      },
+      {
+        "conductor_id": "cnd_0039",
+        "conductor_name": "Erich Leinsdorf",
+        "role": "music_director",
+        "start": "1962",
+        "end": "1969"
+      },
+      {
+        "conductor_id": "cnd_0040",
+        "conductor_name": "William Steinberg",
+        "role": "music_director",
+        "start": "1969",
+        "end": "1972"
+      },
+      {
+        "conductor_id": "cnd_0020",
+        "conductor_name": "Seiji Ozawa",
+        "role": "music_director",
+        "start": "1973",
+        "end": "2002"
+      },
+      {
+        "conductor_id": "cnd_0041",
+        "conductor_name": "James Levine",
+        "role": "music_director",
+        "start": "2004",
+        "end": "2011"
+      },
+      {
+        "conductor_id": "cnd_0025",
+        "conductor_name": "Andris Nelsons",
+        "role": "music_director",
+        "start": "2014",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0012",
+    "type": "orchestra",
+    "name": {
+      "display": "Royal Concertgebouw Orchestra",
+      "native": "Koninklijk Concertgebouworkest",
+      "kor": "로열 콘세르트헤바우 오케스트라"
+    },
+    "founded": 1888,
+    "location": {
+      "city": "Amsterdam",
+      "country": "NL",
+      "lat": 52.3563,
+      "lng": 4.879
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0049",
+        "conductor_name": "Willem Kes",
+        "role": "chief_conductor",
+        "start": "1888",
+        "end": "1895"
+      },
+      {
+        "conductor_id": "cnd_0050",
+        "conductor_name": "Willem Mengelberg",
+        "role": "chief_conductor",
+        "start": "1895",
+        "end": "1945"
+      },
+      {
+        "conductor_id": "cnd_0051",
+        "conductor_name": "Eduard van Beinum",
+        "role": "chief_conductor",
+        "start": "1945",
+        "end": "1959"
+      },
+      {
+        "conductor_id": "cnd_0015",
+        "conductor_name": "Bernard Haitink",
+        "role": "chief_conductor",
+        "start": "1961",
+        "end": "1988"
+      },
+      {
+        "conductor_id": "cnd_0052",
+        "conductor_name": "Riccardo Chailly",
+        "role": "chief_conductor",
+        "start": "1988",
+        "end": "2004"
+      },
+      {
+        "conductor_id": "cnd_0019",
+        "conductor_name": "Mariss Jansons",
+        "role": "chief_conductor",
+        "start": "2004",
+        "end": "2015"
+      },
+      {
+        "conductor_id": "cnd_0053",
+        "conductor_name": "Daniele Gatti",
+        "role": "chief_conductor",
+        "start": "2016",
+        "end": "2018"
+      },
+      {
+        "conductor_id": "cnd_0054",
+        "conductor_name": "Klaus Mäkelä",
+        "role": "chief_conductor",
+        "start": "2027",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0013",
+    "type": "orchestra",
+    "name": {
+      "display": "Bavarian Radio Symphony Orchestra",
+      "native": "Symphonieorchester des Bayerischen Rundfunks",
+      "kor": "바이에른 방송 교향악단"
+    },
+    "founded": 1949,
+    "location": {
+      "city": "Munich",
+      "country": "DE",
+      "lat": 48.1351,
+      "lng": 11.582
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0010",
+        "conductor_name": "Eugen Jochum",
+        "role": "chief_conductor",
+        "start": "1949",
+        "end": "1960"
+      },
+      {
+        "conductor_id": "cnd_0046",
+        "conductor_name": "Rafael Kubelík",
+        "role": "chief_conductor",
+        "start": "1961",
+        "end": "1979"
+      },
+      {
+        "conductor_id": "cnd_0055",
+        "conductor_name": "Colin Davis",
+        "role": "chief_conductor",
+        "start": "1983",
+        "end": "1992"
+      },
+      {
+        "conductor_id": "cnd_0014",
+        "conductor_name": "Lorin Maazel",
+        "role": "chief_conductor",
+        "start": "1993",
+        "end": "2002"
+      },
+      {
+        "conductor_id": "cnd_0019",
+        "conductor_name": "Mariss Jansons",
+        "role": "chief_conductor",
+        "start": "2003",
+        "end": "2019"
+      },
+      {
+        "conductor_id": "cnd_0018",
+        "conductor_name": "Simon Rattle",
+        "role": "chief_conductor",
+        "start": "2023",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0014",
+    "type": "orchestra",
+    "name": {
+      "display": "Los Angeles Philharmonic",
+      "native": "Los Angeles Philharmonic",
+      "kor": "로스앤젤레스 필하모닉"
+    },
+    "founded": 1919,
+    "location": {
+      "city": "Los Angeles",
+      "country": "US",
+      "lat": 34.0553,
+      "lng": -118.2498
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0056",
+        "conductor_name": "Walter Henry Rothwell",
+        "role": "music_director",
+        "start": "1919",
+        "end": "1927"
+      },
+      {
+        "conductor_id": "cnd_0057",
+        "conductor_name": "Georg Schnéevoigt",
+        "role": "music_director",
+        "start": "1927",
+        "end": "1929"
+      },
+      {
+        "conductor_id": "cnd_0045",
+        "conductor_name": "Artur Rodziński",
+        "role": "music_director",
+        "start": "1929",
+        "end": "1933"
+      },
+      {
+        "conductor_id": "cnd_0009",
+        "conductor_name": "Otto Klemperer",
+        "role": "music_director",
+        "start": "1933",
+        "end": "1939"
+      },
+      {
+        "conductor_id": "cnd_0058",
+        "conductor_name": "Alfred Wallenstein",
+        "role": "music_director",
+        "start": "1943",
+        "end": "1956"
+      },
+      {
+        "conductor_id": "cnd_0051",
+        "conductor_name": "Eduard van Beinum",
+        "role": "music_director",
+        "start": "1956",
+        "end": "1959"
+      },
+      {
+        "conductor_id": "cnd_0059",
+        "conductor_name": "Zubin Mehta",
+        "role": "music_director",
+        "start": "1962",
+        "end": "1978"
+      },
+      {
+        "conductor_id": "cnd_0060",
+        "conductor_name": "Carlo Maria Giulini",
+        "role": "music_director",
+        "start": "1978",
+        "end": "1984"
+      },
+      {
+        "conductor_id": "cnd_0061",
+        "conductor_name": "André Previn",
+        "role": "music_director",
+        "start": "1985",
+        "end": "1989"
+      },
+      {
+        "conductor_id": "cnd_0029",
+        "conductor_name": "Esa-Pekka Salonen",
+        "role": "music_director",
+        "start": "1992",
+        "end": "2009"
+      },
+      {
+        "conductor_id": "cnd_0024",
+        "conductor_name": "Gustavo Dudamel",
+        "role": "music_artistic_director",
+        "start": "2009",
+        "end": "2026"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0015",
+    "type": "orchestra",
+    "name": {
+      "display": "San Francisco Symphony",
+      "native": "San Francisco Symphony",
+      "kor": "샌프란시스코 심포니"
+    },
+    "founded": 1911,
+    "location": {
+      "city": "San Francisco",
+      "country": "US",
+      "lat": 37.7776,
+      "lng": -122.4206
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0062",
+        "conductor_name": "Henry Hadley",
+        "role": "music_director",
+        "start": "1911",
+        "end": "1915"
+      },
+      {
+        "conductor_id": "cnd_0063",
+        "conductor_name": "Alfred Hertz",
+        "role": "music_director",
+        "start": "1915",
+        "end": "1930"
+      },
+      {
+        "conductor_id": "cnd_0065",
+        "conductor_name": "Basil Cameron",
+        "role": "music_director",
+        "start": "1930",
+        "end": "1932"
+      },
+      {
+        "conductor_id": "cnd_0064",
+        "conductor_name": "Issay Dobrowen",
+        "role": "music_director",
+        "start": "1930",
+        "end": "1935"
+      },
+      {
+        "conductor_id": "cnd_0066",
+        "conductor_name": "Pierre Monteux",
+        "role": "music_director",
+        "start": "1935",
+        "end": "1952"
+      },
+      {
+        "conductor_id": "cnd_0067",
+        "conductor_name": "Enrique Jordá",
+        "role": "music_director",
+        "start": "1954",
+        "end": "1963"
+      },
+      {
+        "conductor_id": "cnd_0068",
+        "conductor_name": "Josef Krips",
+        "role": "music_director",
+        "start": "1963",
+        "end": "1970"
+      },
+      {
+        "conductor_id": "cnd_0020",
+        "conductor_name": "Seiji Ozawa",
+        "role": "music_director",
+        "start": "1970",
+        "end": "1977"
+      },
+      {
+        "conductor_id": "cnd_0069",
+        "conductor_name": "Edo de Waart",
+        "role": "music_director",
+        "start": "1977",
+        "end": "1985"
+      },
+      {
+        "conductor_id": "cnd_0070",
+        "conductor_name": "Herbert Blomstedt",
+        "role": "music_director",
+        "start": "1985",
+        "end": "1995"
+      },
+      {
+        "conductor_id": "cnd_0071",
+        "conductor_name": "Michael Tilson Thomas",
+        "role": "music_director",
+        "start": "1995",
+        "end": "2020"
+      },
+      {
+        "conductor_id": "cnd_0029",
+        "conductor_name": "Esa-Pekka Salonen",
+        "role": "music_director",
+        "start": "2020",
+        "end": "2025"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0016",
+    "type": "orchestra",
+    "name": {
+      "display": "Toronto Symphony Orchestra",
+      "native": "Toronto Symphony Orchestra",
+      "kor": "토론토 심포니 오케스트라"
+    },
+    "founded": 1922,
+    "location": {
+      "city": "Toronto",
+      "country": "CA",
+      "lat": 43.6532,
+      "lng": -79.3832
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0020",
+        "conductor_name": "Seiji Ozawa",
+        "role": "music_director",
+        "start": "1965",
+        "end": "1969"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0017",
+    "type": "orchestra",
+    "name": {
+      "display": "Philharmonia Orchestra",
+      "native": "Philharmonia Orchestra",
+      "kor": "필하모니아 오케스트라"
+    },
+    "founded": 1945,
+    "location": {
+      "city": "London",
+      "country": "GB",
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0009",
+        "conductor_name": "Otto Klemperer",
+        "role": "principal_conductor",
+        "start": "1959",
+        "end": "1973"
+      },
+      {
+        "conductor_id": "cnd_0009",
+        "conductor_name": "Otto Klemperer",
+        "role": "conductor_for_life",
+        "start": "1959",
+        "end": "1973"
+      },
+      {
+        "conductor_id": "cnd_0014",
+        "conductor_name": "Lorin Maazel",
+        "role": "associate_conductor",
+        "start": "1965",
+        "end": "1971"
+      },
+      {
+        "conductor_id": "cnd_0016",
+        "conductor_name": "Riccardo Muti",
+        "role": "principal_conductor",
+        "start": "1972",
+        "end": "1982"
+      },
+      {
+        "conductor_id": "cnd_0029",
+        "conductor_name": "Esa-Pekka Salonen",
+        "role": "principal_conductor_artistic_adviser",
+        "start": "2008",
+        "end": "2021"
+      }
+    ],
+    "leadership_data_status": "institutional_history_partially_verified"
+  },
+  {
+    "id": "orch_0018",
+    "type": "orchestra",
+    "name": {
+      "display": "Philadelphia Orchestra",
+      "native": "The Philadelphia Orchestra",
+      "kor": "필라델피아 오케스트라"
+    },
+    "founded": 1900,
+    "location": {
+      "city": "Philadelphia",
+      "country": "US",
+      "lat": 39.9526,
+      "lng": -75.1652
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0016",
+        "conductor_name": "Riccardo Muti",
+        "role": "music_director",
+        "start": "1980",
+        "end": "1992"
+      },
+      {
+        "conductor_id": "cnd_0026",
+        "conductor_name": "Yannick Nézet-Séguin",
+        "role": "music_director",
+        "start": "2012",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0019",
+    "type": "orchestra",
+    "name": {
+      "display": "Cleveland Orchestra",
+      "native": "The Cleveland Orchestra",
+      "kor": "클리블랜드 오케스트라"
+    },
+    "founded": 1918,
+    "location": {
+      "city": "Cleveland",
+      "country": "US",
+      "lat": 41.4993,
+      "lng": -81.6944
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0072",
+        "conductor_name": "Nikolai Sokoloff",
+        "role": "music_director",
+        "start": "1918",
+        "end": "1933"
+      },
+      {
+        "conductor_id": "cnd_0045",
+        "conductor_name": "Artur Rodziński",
+        "role": "music_director",
+        "start": "1933",
+        "end": "1943"
+      },
+      {
+        "conductor_id": "cnd_0039",
+        "conductor_name": "Erich Leinsdorf",
+        "role": "music_director",
+        "start": "1943",
+        "end": "1946"
+      },
+      {
+        "conductor_id": "cnd_0073",
+        "conductor_name": "George Szell",
+        "role": "music_director",
+        "start": "1946",
+        "end": "1970"
+      },
+      {
+        "conductor_id": "cnd_0014",
+        "conductor_name": "Lorin Maazel",
+        "role": "music_director",
+        "start": "1972",
+        "end": "1982"
+      },
+      {
+        "conductor_id": "cnd_0074",
+        "conductor_name": "Christoph von Dohnányi",
+        "role": "music_director",
+        "start": "1984",
+        "end": "2002"
+      },
+      {
+        "conductor_id": "cnd_0075",
+        "conductor_name": "Franz Welser-Möst",
+        "role": "music_director",
+        "start": "2002",
+        "end": "2027"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0020",
+    "type": "orchestra",
+    "name": {
+      "display": "Pittsburgh Symphony Orchestra",
+      "native": "Pittsburgh Symphony Orchestra",
+      "kor": "피츠버그 심포니 오케스트라"
+    },
+    "founded": 1895,
+    "location": {
+      "city": "Pittsburgh",
+      "country": "US",
+      "lat": 40.4406,
+      "lng": -79.9959
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0047",
+        "conductor_name": "Fritz Reiner",
+        "role": "music_director",
+        "start": "1938",
+        "end": "1948"
+      },
+      {
+        "conductor_id": "cnd_0040",
+        "conductor_name": "William Steinberg",
+        "role": "music_director",
+        "start": "1952",
+        "end": "1976"
+      },
+      {
+        "conductor_id": "cnd_0061",
+        "conductor_name": "André Previn",
+        "role": "music_director",
+        "start": "1976",
+        "end": "1984"
+      },
+      {
+        "conductor_id": "cnd_0014",
+        "conductor_name": "Lorin Maazel",
+        "role": "music_director",
+        "start": "1984",
+        "end": "1996"
+      },
+      {
+        "conductor_id": "cnd_0019",
+        "conductor_name": "Mariss Jansons",
+        "role": "music_director",
+        "start": "1997",
+        "end": "2004"
+      },
+      {
+        "conductor_id": "cnd_0076",
+        "conductor_name": "Manfred Honeck",
+        "role": "music_director",
+        "start": "2008",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0021",
+    "type": "orchestra",
+    "name": {
+      "display": "Oslo Philharmonic",
+      "native": "Oslo-Filharmonien",
+      "kor": "오슬로 필하모닉"
+    },
+    "founded": 1919,
+    "location": {
+      "city": "Oslo",
+      "country": "NO",
+      "lat": 59.9139,
+      "lng": 10.7522
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0019",
+        "conductor_name": "Mariss Jansons",
+        "role": "music_director",
+        "start": "1979",
+        "end": "2002"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0022",
+    "type": "orchestra",
+    "name": {
+      "display": "City of Birmingham Symphony Orchestra",
+      "native": "City of Birmingham Symphony Orchestra",
+      "kor": "버밍엄 시립 교향악단"
+    },
+    "founded": 1920,
+    "location": {
+      "city": "Birmingham",
+      "country": "GB",
+      "lat": 52.4862,
+      "lng": -1.8904
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0018",
+        "conductor_name": "Simon Rattle",
+        "role": "principal_conductor_music_director",
+        "start": "1980",
+        "end": "1998"
+      },
+      {
+        "conductor_id": "cnd_0077",
+        "conductor_name": "Sakari Oramo",
+        "role": "music_director",
+        "start": "1998",
+        "end": "2008"
+      },
+      {
+        "conductor_id": "cnd_0025",
+        "conductor_name": "Andris Nelsons",
+        "role": "music_director",
+        "start": "2008",
+        "end": "2015"
+      },
+      {
+        "conductor_id": "cnd_0078",
+        "conductor_name": "Mirga Gražinytė-Tyla",
+        "role": "music_director",
+        "start": "2016",
+        "end": "2022"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0023",
+    "type": "orchestra",
+    "name": {
+      "display": "Swedish Radio Symphony Orchestra",
+      "native": "Sveriges Radios Symfoniorkester",
+      "kor": "스웨덴 방송 교향악단"
+    },
+    "founded": 1936,
+    "location": {
+      "city": "Stockholm",
+      "country": "SE",
+      "lat": 59.3293,
+      "lng": 18.0686
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0012",
+        "conductor_name": "Sergiu Celibidache",
+        "role": "chief_conductor",
+        "start": "1965",
+        "end": "1971"
+      },
+      {
+        "conductor_id": "cnd_0029",
+        "conductor_name": "Esa-Pekka Salonen",
+        "role": "chief_conductor",
+        "start": "1985",
+        "end": "1995"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0024",
+    "type": "orchestra",
+    "name": {
+      "display": "Munich Philharmonic",
+      "native": "Münchner Philharmoniker",
+      "kor": "뮌헨 필하모닉"
+    },
+    "founded": 1893,
+    "location": {
+      "city": "Munich",
+      "country": "DE",
+      "lat": 48.1351,
+      "lng": 11.582
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0012",
+        "conductor_name": "Sergiu Celibidache",
+        "role": "general_music_director",
+        "start": "1979",
+        "end": "1996"
+      },
+      {
+        "conductor_id": "cnd_0027",
+        "conductor_name": "Christian Thielemann",
+        "role": "general_music_director",
+        "start": "2004",
+        "end": "2011"
+      },
+      {
+        "conductor_id": "cnd_0023",
+        "conductor_name": "Valery Gergiev",
+        "role": "chief_conductor",
+        "start": "2015",
+        "end": "2022"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0025",
+    "type": "orchestra",
+    "name": {
+      "display": "SWR Symphony Orchestra / Stuttgart Radio Symphony",
+      "native": "Radio-Sinfonieorchester Stuttgart des SWR",
+      "kor": "슈투트가르트 방송 교향악단"
+    },
+    "founded": 1945,
+    "location": {
+      "city": "Stuttgart",
+      "country": "DE",
+      "lat": 48.7758,
+      "lng": 9.1829
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0012",
+        "conductor_name": "Sergiu Celibidache",
+        "role": "principal_conductor",
+        "start": "1971",
+        "end": "1977"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0026",
+    "type": "orchestra",
+    "name": {
+      "display": "BBC Symphony Orchestra",
+      "native": "BBC Symphony Orchestra",
+      "kor": "BBC 심포니 오케스트라"
+    },
+    "founded": 1930,
+    "location": {
+      "city": "London",
+      "country": "GB",
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0013",
+        "conductor_name": "Pierre Boulez",
+        "role": "chief_conductor",
+        "start": "1971",
+        "end": "1975"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0027",
+    "type": "ensemble",
+    "name": {
+      "display": "Ensemble intercontemporain",
+      "native": "Ensemble intercontemporain",
+      "kor": "앙상블 앵테르콩탱포랭"
+    },
+    "founded": 1976,
+    "location": {
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0013",
+        "conductor_name": "Pierre Boulez",
+        "role": "founder_music_director",
+        "start": "1976",
+        "end": "1979"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0028",
+    "type": "orchestra",
+    "name": {
+      "display": "Orchestre de Paris",
+      "native": "Orchestre de Paris",
+      "kor": "파리 오케스트라"
+    },
+    "founded": 1967,
+    "location": {
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0038",
+        "conductor_name": "Charles Munch",
+        "role": "music_director",
+        "start": "1967",
+        "end": "1968"
+      },
+      {
+        "conductor_id": "cnd_0001",
+        "conductor_name": "Herbert von Karajan",
+        "role": "music_adviser",
+        "start": "1969",
+        "end": "1971"
+      },
+      {
+        "conductor_id": "cnd_0007",
+        "conductor_name": "Georg Solti",
+        "role": "music_director",
+        "start": "1972",
+        "end": "1975"
+      },
+      {
+        "conductor_id": "cnd_0017",
+        "conductor_name": "Daniel Barenboim",
+        "role": "music_director",
+        "start": "1975",
+        "end": "1989"
+      },
+      {
+        "conductor_id": "cnd_0105",
+        "conductor_name": "Semyon Bychkov",
+        "role": "music_director",
+        "start": "1989",
+        "end": "1998"
+      },
+      {
+        "conductor_id": "cnd_0074",
+        "conductor_name": "Christoph von Dohnányi",
+        "role": "artistic_adviser",
+        "start": "1998",
+        "end": "2000"
+      },
+      {
+        "conductor_id": "cnd_0106",
+        "conductor_name": "Christoph Eschenbach",
+        "role": "music_director",
+        "start": "2000",
+        "end": "2010"
+      },
+      {
+        "conductor_id": "cnd_0107",
+        "conductor_name": "Paavo Järvi",
+        "role": "music_director",
+        "start": "2010",
+        "end": "2016"
+      },
+      {
+        "conductor_id": "cnd_0108",
+        "conductor_name": "Daniel Harding",
+        "role": "music_director",
+        "start": "2016",
+        "end": "2019"
+      },
+      {
+        "conductor_id": "cnd_0054",
+        "conductor_name": "Klaus Mäkelä",
+        "role": "music_director",
+        "start": "2021",
+        "end": "2027"
+      },
+      {
+        "conductor_id": "cnd_0029",
+        "conductor_name": "Esa-Pekka Salonen",
+        "role": "chief_conductor",
+        "start": "2027",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "institutional_history_verified"
+  },
+  {
+    "id": "orch_0029",
+    "type": "orchestra",
+    "name": {
+      "display": "Orchestre National de France",
+      "native": "Orchestre National de France",
+      "kor": "프랑스 국립 오케스트라"
+    },
+    "founded": 1934,
+    "location": {
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0014",
+        "conductor_name": "Lorin Maazel",
+        "role": "music_director",
+        "start": "1977",
+        "end": "1991"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0030",
+    "type": "orchestra",
+    "name": {
+      "display": "London Philharmonic Orchestra",
+      "native": "London Philharmonic Orchestra",
+      "kor": "런던 필하모닉 오케스트라"
+    },
+    "founded": 1932,
+    "location": {
+      "city": "London",
+      "country": "GB",
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0015",
+        "conductor_name": "Bernard Haitink",
+        "role": "principal_conductor",
+        "start": "1967",
+        "end": "1979"
+      },
+      {
+        "conductor_id": "cnd_0007",
+        "conductor_name": "Georg Solti",
+        "role": "principal_conductor",
+        "start": "1979",
+        "end": "1983"
+      },
+      {
+        "conductor_id": "cnd_0089",
+        "conductor_name": "Klaus Tennstedt",
+        "role": "principal_conductor",
+        "start": "1983",
+        "end": "1987"
+      },
+      {
+        "conductor_id": "cnd_0075",
+        "conductor_name": "Franz Welser-Möst",
+        "role": "principal_conductor",
+        "start": "1990",
+        "end": "1996"
+      },
+      {
+        "conductor_id": "cnd_0090",
+        "conductor_name": "Kurt Masur",
+        "role": "principal_conductor",
+        "start": "2000",
+        "end": "2007"
+      },
+      {
+        "conductor_id": "cnd_0087",
+        "conductor_name": "Vladimir Jurowski",
+        "role": "principal_conductor",
+        "start": "2007",
+        "end": "2021"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0031",
+    "type": "orchestra",
+    "name": {
+      "display": "Netherlands Radio Philharmonic Orchestra",
+      "native": "Radio Filharmonisch Orkest",
+      "kor": "네덜란드 라디오 필하모닉"
+    },
+    "founded": 1945,
+    "location": {
+      "city": "Hilversum",
+      "country": "NL",
+      "lat": 52.2292,
+      "lng": 5.1669
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0015",
+        "conductor_name": "Bernard Haitink",
+        "role": "chief_conductor",
+        "start": "1957",
+        "end": "1961"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0032",
+    "type": "orchestra",
+    "name": {
+      "display": "Sächsische Staatskapelle Dresden",
+      "native": "Sächsische Staatskapelle Dresden",
+      "kor": "드레스덴 슈타츠카펠레"
+    },
+    "founded": 1548,
+    "location": {
+      "city": "Dresden",
+      "country": "DE",
+      "lat": 51.0504,
+      "lng": 13.7373
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0011",
+        "conductor_name": "Karl Böhm",
+        "role": "general_music_director",
+        "start": "1934",
+        "end": "1942"
+      },
+      {
+        "conductor_id": "cnd_0015",
+        "conductor_name": "Bernard Haitink",
+        "role": "chief_conductor",
+        "start": "2002",
+        "end": "2004"
+      },
+      {
+        "conductor_id": "cnd_0027",
+        "conductor_name": "Christian Thielemann",
+        "role": "principal_conductor",
+        "start": "2012",
+        "end": "2024"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0033",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Hamburg State Opera",
+      "native": "Hamburgische Staatsoper",
+      "kor": "함부르크 국립오페라"
+    },
+    "founded": 1678,
+    "location": {
+      "city": "Hamburg",
+      "country": "DE",
+      "lat": 53.5511,
+      "lng": 9.9937
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0011",
+        "conductor_name": "Karl Böhm",
+        "role": "general_music_director",
+        "start": "1931",
+        "end": "1934"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0034",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Bavarian State Opera",
+      "native": "Bayerische Staatsoper",
+      "kor": "바이에른 국립오페라"
+    },
+    "founded": 1653,
+    "location": {
+      "city": "Munich",
+      "country": "DE",
+      "lat": 48.1396,
+      "lng": 11.5796
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0007",
+        "conductor_name": "Georg Solti",
+        "role": "general_music_director",
+        "start": "1946",
+        "end": "1952"
+      },
+      {
+        "conductor_id": "cnd_0028",
+        "conductor_name": "Kirill Petrenko",
+        "role": "general_music_director",
+        "start": "2013",
+        "end": "2020"
+      },
+      {
+        "conductor_id": "cnd_0087",
+        "conductor_name": "Vladimir Jurowski",
+        "role": "general_music_director",
+        "start": "2021",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0035",
+    "type": "orchestra",
+    "name": {
+      "display": "Frankfurt Opera",
+      "native": "Oper Frankfurt",
+      "kor": "프랑크푸르트 오페라"
+    },
+    "founded": 1880,
+    "location": {
+      "city": "Frankfurt",
+      "country": "DE",
+      "lat": 50.1109,
+      "lng": 8.6821
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0007",
+        "conductor_name": "Georg Solti",
+        "role": "general_music_director",
+        "start": "1952",
+        "end": "1961"
+      },
+      {
+        "conductor_id": "cnd_0074",
+        "conductor_name": "Christoph von Dohnányi",
+        "role": "general_music_director",
+        "start": "1968",
+        "end": "1977"
+      },
+      {
+        "conductor_id": "cnd_0080",
+        "conductor_name": "Michael Gielen",
+        "role": "general_music_director",
+        "start": "1977",
+        "end": "1987"
+      },
+      {
+        "conductor_id": "cnd_0081",
+        "conductor_name": "Sylvain Cambreling",
+        "role": "general_music_director",
+        "start": "1993",
+        "end": "1996"
+      },
+      {
+        "conductor_id": "cnd_0082",
+        "conductor_name": "Paolo Carignani",
+        "role": "general_music_director",
+        "start": "1997",
+        "end": "2008"
+      },
+      {
+        "conductor_id": "cnd_0083",
+        "conductor_name": "Sebastian Weigle",
+        "role": "general_music_director",
+        "start": "2008",
+        "end": "2023"
+      },
+      {
+        "conductor_id": "cnd_0084",
+        "conductor_name": "Thomas Guggeis",
+        "role": "general_music_director",
+        "start": "2023",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0036",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Royal Opera House Orchestra",
+      "native": "Orchestra of the Royal Opera House",
+      "kor": "로열 오페라 하우스 오케스트라"
+    },
+    "founded": 1946,
+    "location": {
+      "city": "London",
+      "country": "GB",
+      "lat": 51.5132,
+      "lng": -0.122
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0007",
+        "conductor_name": "Georg Solti",
+        "role": "music_director",
+        "start": "1961",
+        "end": "1971"
+      },
+      {
+        "conductor_id": "cnd_0015",
+        "conductor_name": "Bernard Haitink",
+        "role": "music_director",
+        "start": "1987",
+        "end": "2002"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0037",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Deutsche Oper Berlin",
+      "native": "Orchester der Deutschen Oper Berlin",
+      "kor": "도이체 오퍼 베를린 오케스트라"
+    },
+    "founded": 1912,
+    "location": {
+      "city": "Berlin",
+      "country": "DE",
+      "lat": 52.5127,
+      "lng": 13.308
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0014",
+        "conductor_name": "Lorin Maazel",
+        "role": "artistic_director_chief_conductor",
+        "start": "1965",
+        "end": "1971"
+      },
+      {
+        "conductor_id": "cnd_0027",
+        "conductor_name": "Christian Thielemann",
+        "role": "general_music_director",
+        "start": "1997",
+        "end": "2004"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0038",
+    "type": "orchestra",
+    "name": {
+      "display": "Rotterdam Philharmonic Orchestra",
+      "native": "Rotterdams Philharmonisch Orkest",
+      "kor": "로테르담 필하모닉 오케스트라"
+    },
+    "founded": 1918,
+    "location": {
+      "city": "Rotterdam",
+      "country": "NL",
+      "lat": 51.9244,
+      "lng": 4.4777
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0112",
+        "conductor_name": "Eduard Flipse",
+        "role": "chief_conductor",
+        "start": "1930",
+        "end": "1962"
+      },
+      {
+        "conductor_id": "cnd_0113",
+        "conductor_name": "Jean Fournet",
+        "role": "chief_conductor",
+        "start": "1968",
+        "end": "1973"
+      },
+      {
+        "conductor_id": "cnd_0069",
+        "conductor_name": "Edo de Waart",
+        "role": "chief_conductor",
+        "start": "1973",
+        "end": "1979"
+      },
+      {
+        "conductor_id": "cnd_0114",
+        "conductor_name": "James Conlon",
+        "role": "chief_conductor",
+        "start": "1983",
+        "end": "1991"
+      },
+      {
+        "conductor_id": "cnd_0023",
+        "conductor_name": "Valery Gergiev",
+        "role": "principal_conductor",
+        "start": "1995",
+        "end": "2008"
+      },
+      {
+        "conductor_id": "cnd_0026",
+        "conductor_name": "Yannick Nézet-Séguin",
+        "role": "music_director",
+        "start": "2008",
+        "end": "2018"
+      },
+      {
+        "conductor_id": "cnd_0079",
+        "conductor_name": "Lahav Shani",
+        "role": "chief_conductor",
+        "start": "2018",
+        "end": "2026"
+      }
+    ],
+    "leadership_data_status": "institutional_history_verified"
+  },
+  {
+    "id": "orch_0039",
+    "type": "orchestra",
+    "name": {
+      "display": "Orchestre Métropolitain",
+      "native": "Orchestre Métropolitain",
+      "kor": "오케스트르 메트로폴리탱"
+    },
+    "founded": 1981,
+    "location": {
+      "city": "Montreal",
+      "country": "CA",
+      "lat": 45.5017,
+      "lng": -73.5673
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0026",
+        "conductor_name": "Yannick Nézet-Séguin",
+        "role": "artistic_director_principal_conductor",
+        "start": "2000",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0040",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Metropolitan Opera Orchestra",
+      "native": "Metropolitan Opera Orchestra",
+      "kor": "메트로폴리탄 오페라 오케스트라"
+    },
+    "founded": 1883,
+    "location": {
+      "city": "New York City",
+      "country": "US",
+      "lat": 40.7727,
+      "lng": -73.9842
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0041",
+        "conductor_name": "James Levine",
+        "role": "principal_conductor",
+        "start": "1973",
+        "end": "1976"
+      },
+      {
+        "conductor_id": "cnd_0041",
+        "conductor_name": "James Levine",
+        "role": "music_director",
+        "start": "1976",
+        "end": "2016"
+      },
+      {
+        "conductor_id": "cnd_0026",
+        "conductor_name": "Yannick Nézet-Séguin",
+        "role": "music_director",
+        "start": "2018",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0041",
+    "type": "orchestra",
+    "name": {
+      "display": "Mariinsky Orchestra",
+      "native": "Оркестр Мариинского театра",
+      "kor": "마린스키 극장 오케스트라"
+    },
+    "founded": 1783,
+    "location": {
+      "city": "Saint Petersburg",
+      "country": "RU",
+      "lat": 59.9256,
+      "lng": 30.296
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0023",
+        "conductor_name": "Valery Gergiev",
+        "role": "artistic_general_director",
+        "start": "1988",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0042",
+    "type": "orchestra",
+    "name": {
+      "display": "Simón Bolívar Symphony Orchestra",
+      "native": "Orquesta Sinfónica Simón Bolívar",
+      "kor": "시몬 볼리바르 심포니 오케스트라"
+    },
+    "founded": 1978,
+    "location": {
+      "city": "Caracas",
+      "country": "VE",
+      "lat": 10.4806,
+      "lng": -66.9036
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0024",
+        "conductor_name": "Gustavo Dudamel",
+        "role": "music_director",
+        "start": "1999",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0043",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Latvian National Opera Orchestra",
+      "native": "Latvijas Nacionālās operas orķestris",
+      "kor": "라트비아 국립오페라 오케스트라"
+    },
+    "founded": 1919,
+    "location": {
+      "city": "Riga",
+      "country": "LV",
+      "lat": 56.9496,
+      "lng": 24.1052
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0025",
+        "conductor_name": "Andris Nelsons",
+        "role": "music_director",
+        "start": "2003",
+        "end": "2007"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0044",
+    "type": "orchestra",
+    "name": {
+      "display": "Maggio Musicale Fiorentino",
+      "native": "Orchestra del Maggio Musicale Fiorentino",
+      "kor": "마조 무지칼레 피오렌티노 오케스트라"
+    },
+    "founded": 1928,
+    "location": {
+      "city": "Florence",
+      "country": "IT",
+      "lat": 43.7696,
+      "lng": 11.2558
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0016",
+        "conductor_name": "Riccardo Muti",
+        "role": "principal_conductor",
+        "start": "1968",
+        "end": "1980"
+      },
+      {
+        "conductor_id": "cnd_0030",
+        "conductor_name": "Myung-Whun Chung",
+        "role": "chief_conductor",
+        "start": "1985",
+        "end": "1987"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0045",
+    "type": "orchestra",
+    "name": {
+      "display": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+      "native": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+      "kor": "산타 체칠리아 국립음악원 오케스트라"
+    },
+    "founded": 1908,
+    "location": {
+      "city": "Rome",
+      "country": "IT",
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0030",
+        "conductor_name": "Myung-Whun Chung",
+        "role": "principal_conductor",
+        "start": "1997",
+        "end": "2005"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0046",
+    "type": "orchestra",
+    "name": {
+      "display": "Orchestre Philharmonique de Radio France",
+      "native": "Orchestre Philharmonique de Radio France",
+      "kor": "라디오 프랑스 필하모닉 오케스트라"
+    },
+    "founded": 1937,
+    "location": {
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0030",
+        "conductor_name": "Myung-Whun Chung",
+        "role": "music_director",
+        "start": "2000",
+        "end": "2015"
+      },
+      {
+        "conductor_id": "cnd_0115",
+        "conductor_name": "Mikko Franck",
+        "role": "music_director",
+        "start": "2015",
+        "end": "2025"
+      },
+      {
+        "conductor_id": "cnd_0086",
+        "conductor_name": "Jaap van Zweden",
+        "role": "music_director",
+        "start": "2026",
+        "end": null
+      }
+    ],
+    "leadership_data_status": "institutional_history_partially_verified"
+  },
+  {
+    "id": "orch_0047",
+    "type": "orchestra",
+    "name": {
+      "display": "Seoul Philharmonic Orchestra",
+      "native": "서울시립교향악단",
+      "kor": "서울시립교향악단"
+    },
+    "founded": 1948,
+    "location": {
+      "city": "Seoul",
+      "country": "KR",
+      "lat": 37.5665,
+      "lng": 126.978
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0030",
+        "conductor_name": "Myung-Whun Chung",
+        "role": "music_director",
+        "start": "2006",
+        "end": "2015"
+      },
+      {
+        "conductor_id": "cnd_0085",
+        "conductor_name": "Osmo Vänskä",
+        "role": "music_director",
+        "start": "2020",
+        "end": "2022"
+      },
+      {
+        "conductor_id": "cnd_0086",
+        "conductor_name": "Jaap van Zweden",
+        "role": "music_director",
+        "start": "2024",
+        "end": "2028"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0048",
+    "type": "orchestra",
+    "name": {
+      "display": "Saarbrücken Radio Symphony Orchestra",
+      "native": "Rundfunk-Sinfonieorchester Saarbrücken",
+      "kor": "자르브뤼켄 방송 교향악단"
+    },
+    "founded": 1937,
+    "location": {
+      "city": "Saarbrücken",
+      "country": "DE",
+      "lat": 49.2402,
+      "lng": 6.9969
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0030",
+        "conductor_name": "Myung-Whun Chung",
+        "role": "music_director",
+        "start": "1984",
+        "end": "1990"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0049",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Paris Opera",
+      "native": "Opéra national de Paris",
+      "kor": "파리 오페라"
+    },
+    "founded": 1669,
+    "location": {
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.8719,
+      "lng": 2.3316
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0030",
+        "conductor_name": "Myung-Whun Chung",
+        "role": "music_director",
+        "start": "1989",
+        "end": "1994"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0050",
+    "type": "ensemble",
+    "name": {
+      "display": "Concentus Musicus Wien",
+      "native": "Concentus Musicus Wien",
+      "kor": "콘첸투스 무지쿠스 빈"
+    },
+    "founded": 1953,
+    "location": {
+      "city": "Vienna",
+      "country": "AT",
+      "lat": 48.2082,
+      "lng": 16.3738
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0021",
+        "conductor_name": "Nikolaus Harnoncourt",
+        "role": "founder_artistic_director",
+        "start": "1953",
+        "end": "2015"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0051",
+    "type": "ensemble",
+    "name": {
+      "display": "English Baroque Soloists",
+      "native": "English Baroque Soloists",
+      "kor": "잉글리시 바로크 솔로이스츠"
+    },
+    "founded": 1978,
+    "location": {
+      "city": "London",
+      "country": "GB",
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0022",
+        "conductor_name": "John Eliot Gardiner",
+        "role": "founder_artistic_director",
+        "start": "1978",
+        "end": "2024"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0052",
+    "type": "ensemble",
+    "name": {
+      "display": "Orchestre Révolutionnaire et Romantique",
+      "native": "Orchestre Révolutionnaire et Romantique",
+      "kor": "오케스트르 레볼뤼시오네르 에 로망티크"
+    },
+    "founded": 1989,
+    "location": {
+      "city": "London",
+      "country": "GB",
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0022",
+        "conductor_name": "John Eliot Gardiner",
+        "role": "founder_artistic_director",
+        "start": "1989",
+        "end": "2024"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0053",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Opéra de Lyon",
+      "native": "Opéra national de Lyon",
+      "kor": "리옹 국립오페라"
+    },
+    "founded": 1983,
+    "location": {
+      "city": "Lyon",
+      "country": "FR",
+      "lat": 45.764,
+      "lng": 4.8357
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0022",
+        "conductor_name": "John Eliot Gardiner",
+        "role": "music_director",
+        "start": "1983",
+        "end": "1988"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0054",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Stuttgart State Opera",
+      "native": "Staatsoper Stuttgart",
+      "kor": "슈투트가르트 국립오페라"
+    },
+    "founded": 1912,
+    "location": {
+      "city": "Stuttgart",
+      "country": "DE",
+      "lat": 48.7806,
+      "lng": 9.1857
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0006",
+        "conductor_name": "Carlos Kleiber",
+        "role": "kapellmeister",
+        "start": "1966",
+        "end": "1973"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0055",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Komische Oper Berlin",
+      "native": "Komische Oper Berlin",
+      "kor": "코미셰 오퍼 베를린"
+    },
+    "founded": 1947,
+    "location": {
+      "city": "Berlin",
+      "country": "DE",
+      "lat": 52.515,
+      "lng": 13.3868
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0028",
+        "conductor_name": "Kirill Petrenko",
+        "role": "general_music_director",
+        "start": "2002",
+        "end": "2007"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0056",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Staatstheater Meiningen",
+      "native": "Meininger Hofkapelle",
+      "kor": "마이닝겐 궁정악단"
+    },
+    "founded": 1690,
+    "location": {
+      "city": "Meiningen",
+      "country": "DE",
+      "lat": 50.5679,
+      "lng": 10.4153
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0028",
+        "conductor_name": "Kirill Petrenko",
+        "role": "general_music_director",
+        "start": "1999",
+        "end": "2002"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0057",
+    "type": "orchestra",
+    "name": {
+      "display": "Nuremberg State Philharmonic",
+      "native": "Staatsphilharmonie Nürnberg",
+      "kor": "뉘른베르크 국립 필하모닉"
+    },
+    "founded": 1922,
+    "location": {
+      "city": "Nuremberg",
+      "country": "DE",
+      "lat": 49.4521,
+      "lng": 11.0767
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0027",
+        "conductor_name": "Christian Thielemann",
+        "role": "general_music_director",
+        "start": "1988",
+        "end": "1992"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0058",
+    "type": "orchestra",
+    "name": {
+      "display": "Aachen Symphony Orchestra",
+      "native": "Sinfonieorchester Aachen",
+      "kor": "아헨 심포니 오케스트라"
+    },
+    "founded": 1852,
+    "location": {
+      "city": "Aachen",
+      "country": "DE",
+      "lat": 50.7753,
+      "lng": 6.0839
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0001",
+        "conductor_name": "Herbert von Karajan",
+        "role": "general_music_director",
+        "start": "1935",
+        "end": "1942"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0059",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Ulm Theatre Orchestra",
+      "native": "Orchester des Theaters Ulm",
+      "kor": "울름 극장 오케스트라"
+    },
+    "founded": 1641,
+    "location": {
+      "city": "Ulm",
+      "country": "DE",
+      "lat": 48.4011,
+      "lng": 9.9876
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0001",
+        "conductor_name": "Herbert von Karajan",
+        "role": "first_kapellmeister",
+        "start": "1929",
+        "end": "1934"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0060",
+    "type": "orchestra",
+    "name": {
+      "display": "Lucerne Festival Orchestra",
+      "native": "Lucerne Festival Orchestra",
+      "kor": "루체른 페스티벌 오케스트라"
+    },
+    "founded": 2003,
+    "location": {
+      "city": "Lucerne",
+      "country": "CH",
+      "lat": 47.0502,
+      "lng": 8.3093
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0002",
+        "conductor_name": "Claudio Abbado",
+        "role": "founding_music_director",
+        "start": "2003",
+        "end": "2014"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0061",
+    "type": "ensemble",
+    "name": {
+      "display": "Mahler Chamber Orchestra",
+      "native": "Mahler Chamber Orchestra",
+      "kor": "말러 체임버 오케스트라"
+    },
+    "founded": 1997,
+    "location": {
+      "city": "Berlin",
+      "country": "DE",
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0002",
+        "conductor_name": "Claudio Abbado",
+        "role": "mentor_artistic_partner",
+        "start": "1997",
+        "end": "2014"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0062",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Glyndebourne Festival Opera Orchestra",
+      "native": "Glyndebourne Festival Opera",
+      "kor": "글라인드본 페스티벌 오페라"
+    },
+    "founded": 1934,
+    "location": {
+      "city": "Lewes",
+      "country": "GB",
+      "lat": 50.873,
+      "lng": 0.015
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0015",
+        "conductor_name": "Bernard Haitink",
+        "role": "music_director",
+        "start": "1978",
+        "end": "1988"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0063",
+    "type": "orchestra",
+    "name": {
+      "display": "Hamburg Philharmonic State Orchestra",
+      "native": "Philharmonisches Staatsorchester Hamburg",
+      "kor": "함부르크 필하모닉 국립 오케스트라"
+    },
+    "founded": 1828,
+    "location": {
+      "city": "Hamburg",
+      "country": "DE",
+      "lat": 53.5511,
+      "lng": 9.9937
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0010",
+        "conductor_name": "Eugen Jochum",
+        "role": "general_music_director",
+        "start": "1934",
+        "end": "1949"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0064",
+    "type": "orchestra",
+    "name": {
+      "display": "Düsseldorf Symphony Orchestra",
+      "native": "Düsseldorfer Symphoniker",
+      "kor": "뒤셀도르프 심포니 오케스트라"
+    },
+    "founded": 1864,
+    "location": {
+      "city": "Düsseldorf",
+      "country": "DE",
+      "lat": 51.2277,
+      "lng": 6.7735
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0010",
+        "conductor_name": "Eugen Jochum",
+        "role": "general_music_director",
+        "start": "1930",
+        "end": "1934"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0065",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Cologne Opera",
+      "native": "Oper Köln",
+      "kor": "쾰른 오페라"
+    },
+    "founded": 1822,
+    "location": {
+      "city": "Cologne",
+      "country": "DE",
+      "lat": 50.9375,
+      "lng": 6.9603
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0009",
+        "conductor_name": "Otto Klemperer",
+        "role": "general_music_director",
+        "start": "1927",
+        "end": "1931"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0066",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Budapest Opera",
+      "native": "Magyar Állami Operaház",
+      "kor": "헝가리 국립오페라"
+    },
+    "founded": 1884,
+    "location": {
+      "city": "Budapest",
+      "country": "HU",
+      "lat": 47.502,
+      "lng": 19.0584
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0009",
+        "conductor_name": "Otto Klemperer",
+        "role": "music_director",
+        "start": "1947",
+        "end": "1950"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0067",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Leipzig Opera / Gewandhaus",
+      "native": "Oper Leipzig",
+      "kor": "라이프치히 오페라"
+    },
+    "founded": 1693,
+    "location": {
+      "city": "Leipzig",
+      "country": "DE",
+      "lat": 51.3403,
+      "lng": 12.3811
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0008",
+        "conductor_name": "Bruno Walter",
+        "role": "general_music_director",
+        "start": "1929",
+        "end": "1933"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0068",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Breslau Opera",
+      "native": "Opernhaus Breslau",
+      "kor": "브레슬라우 오페라"
+    },
+    "founded": 1841,
+    "location": {
+      "city": "Wrocław",
+      "country": "PL",
+      "lat": 51.1079,
+      "lng": 17.0385
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0009",
+        "conductor_name": "Otto Klemperer",
+        "role": "general_music_director",
+        "start": "1924",
+        "end": "1927"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0069",
+    "type": "orchestra",
+    "name": {
+      "display": "Strasbourg Philharmonic Orchestra",
+      "native": "Orchestre philharmonique de Strasbourg",
+      "kor": "스트라스부르 필하모닉 오케스트라"
+    },
+    "founded": 1855,
+    "location": {
+      "city": "Strasbourg",
+      "country": "FR",
+      "lat": 48.5734,
+      "lng": 7.7521
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0009",
+        "conductor_name": "Otto Klemperer",
+        "role": "chief_conductor",
+        "start": "1914",
+        "end": "1917"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0070",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Riga Opera Orchestra",
+      "native": "Latvian National Opera Orchestra",
+      "kor": "리가/라트비아 국립오페라 오케스트라"
+    },
+    "founded": 1919,
+    "location": {
+      "city": "Riga",
+      "country": "LV",
+      "lat": 56.9496,
+      "lng": 24.1052
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0009",
+        "conductor_name": "Otto Klemperer",
+        "role": "chief_conductor",
+        "start": "1907",
+        "end": "1910"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0071",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Mannheim National Theatre Orchestra",
+      "native": "Orchester des Nationaltheaters Mannheim",
+      "kor": "만하임 국립극장 오케스트라"
+    },
+    "founded": 1779,
+    "location": {
+      "city": "Mannheim",
+      "country": "DE",
+      "lat": 49.4875,
+      "lng": 8.466
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0004",
+        "conductor_name": "Wilhelm Furtwängler",
+        "role": "first_kapellmeister",
+        "start": "1915",
+        "end": "1920"
+      },
+      {
+        "conductor_id": "cnd_0011",
+        "conductor_name": "Karl Böhm",
+        "role": "general_music_director",
+        "start": "1921",
+        "end": "1927"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0072",
+    "type": "orchestra",
+    "name": {
+      "display": "Lübeck Philharmonic Orchestra",
+      "native": "Philharmonisches Orchester der Hansestadt Lübeck",
+      "kor": "뤼베크 필하모닉 오케스트라"
+    },
+    "founded": 1897,
+    "location": {
+      "city": "Lübeck",
+      "country": "DE",
+      "lat": 53.8655,
+      "lng": 10.6866
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0004",
+        "conductor_name": "Wilhelm Furtwängler",
+        "role": "music_director",
+        "start": "1911",
+        "end": "1915"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0073",
+    "type": "orchestra",
+    "name": {
+      "display": "Wiener Tonkünstler-Orchester",
+      "native": "Wiener Tonkünstler-Orchester",
+      "kor": "빈 톤퀸스틀러 오케스트라"
+    },
+    "founded": 1907,
+    "location": {
+      "city": "Vienna",
+      "country": "AT",
+      "lat": 48.2082,
+      "lng": 16.3738
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0004",
+        "conductor_name": "Wilhelm Furtwängler",
+        "role": "chief_conductor",
+        "start": "1919",
+        "end": "1921"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0074",
+    "type": "opera_orchestra",
+    "name": {
+      "display": "Darmstadt State Theatre Orchestra",
+      "native": "Orchester des Staatstheaters Darmstadt",
+      "kor": "다름슈타트 국립극장 오케스트라"
+    },
+    "founded": 1711,
+    "location": {
+      "city": "Darmstadt",
+      "country": "DE",
+      "lat": 49.8728,
+      "lng": 8.6512
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0011",
+        "conductor_name": "Karl Böhm",
+        "role": "general_music_director",
+        "start": "1927",
+        "end": "1931"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0075",
+    "type": "orchestra",
+    "name": {
+      "display": "Augsburg Theatre Orchestra",
+      "native": "Augsburger Philharmoniker",
+      "kor": "아우크스부르크 필하모닉"
+    },
+    "founded": 1865,
+    "location": {
+      "city": "Augsburg",
+      "country": "DE",
+      "lat": 48.3705,
+      "lng": 10.8978
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0010",
+        "conductor_name": "Eugen Jochum",
+        "role": "general_music_director",
+        "start": "1927",
+        "end": "1930"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  },
+  {
+    "id": "orch_0076",
+    "type": "orchestra",
+    "name": {
+      "display": "Duisburg Philharmonic",
+      "native": "Duisburger Philharmoniker",
+      "kor": "뒤스부르크 필하모닉"
+    },
+    "founded": 1877,
+    "location": {
+      "city": "Duisburg",
+      "country": "DE",
+      "lat": 51.4344,
+      "lng": 6.7623
+    },
+    "conductors": [
+      {
+        "conductor_id": "cnd_0010",
+        "conductor_name": "Eugen Jochum",
+        "role": "music_director",
+        "start": "1928",
+        "end": "1930"
+      }
+    ],
+    "leadership_data_status": "needs_full_succession_audit"
+  }
+]
