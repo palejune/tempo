@@ -1,0 +1,1592 @@
+[
+  {
+    "id": "cmp_0001",
+    "name": {
+      "display": "Adolphe Adam",
+      "native": "Adolphe Adam",
+      "kor": "아돌프 아당"
+    },
+    "birth": {
+      "date": "1803-07-24",
+      "place": "Paris"
+    },
+    "death": {
+      "date": "1856-05-03",
+      "place": "Paris"
+    },
+    "nationality": [
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0002",
+    "name": {
+      "display": "Tomaso Albinoni",
+      "native": "Tomaso Albinoni",
+      "kor": "토마소 알비노니"
+    },
+    "birth": {
+      "date": "1671-06-08",
+      "place": "Venice"
+    },
+    "death": {
+      "date": "1751-01-17",
+      "place": "Venice"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0003",
+    "name": {
+      "display": "Mily Balakirev",
+      "native": "Милий Балакирев",
+      "kor": "밀리 발라키레프"
+    },
+    "birth": {
+      "date": "1837-01-02",
+      "place": "Nizhny Novgorod"
+    },
+    "death": {
+      "date": "1910-05-29",
+      "place": "Saint Petersburg"
+    },
+    "nationality": [
+      "Russia"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0004",
+    "name": {
+      "display": "Johann Sebastian Bach",
+      "native": "Johann Sebastian Bach",
+      "kor": "요한 제바스티안 바흐"
+    },
+    "birth": {
+      "date": "1685-03-31",
+      "place": "Eisenach"
+    },
+    "death": {
+      "date": "1750-07-28",
+      "place": "Leipzig"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0005",
+    "name": {
+      "display": "Béla Bartók",
+      "native": "Bartók Béla",
+      "kor": "벨러 버르토크"
+    },
+    "birth": {
+      "date": "1881-03-25",
+      "place": "Sânnicolau Mare"
+    },
+    "death": {
+      "date": "1945-09-26",
+      "place": "New York City"
+    },
+    "nationality": [
+      "Hungary"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0006",
+    "name": {
+      "display": "Ludwig van Beethoven",
+      "native": "Ludwig van Beethoven",
+      "kor": "루트비히 판 베토벤"
+    },
+    "birth": {
+      "date": "1770-12-17",
+      "place": "Bonn"
+    },
+    "death": {
+      "date": "1827-03-26",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0007",
+    "name": {
+      "display": "Alban Berg",
+      "native": "Alban Berg",
+      "kor": "알반 베르크"
+    },
+    "birth": {
+      "date": "1885-02-09",
+      "place": "Vienna"
+    },
+    "death": {
+      "date": "1935-12-24",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0008",
+    "name": {
+      "display": "Hector Berlioz",
+      "native": "Hector Berlioz",
+      "kor": "엑토르 베를리오즈"
+    },
+    "birth": {
+      "date": "1803-12-11",
+      "place": "La Côte-Saint-André"
+    },
+    "death": {
+      "date": "1869-03-08",
+      "place": "Paris"
+    },
+    "nationality": [
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0009",
+    "name": {
+      "display": "Georges Bizet",
+      "native": "Georges Bizet",
+      "kor": "조르주 비제"
+    },
+    "birth": {
+      "date": "1838-10-25",
+      "place": "Paris"
+    },
+    "death": {
+      "date": "1875-06-03",
+      "place": "Bougival"
+    },
+    "nationality": [
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0010",
+    "name": {
+      "display": "Luigi Boccherini",
+      "native": "Luigi Boccherini",
+      "kor": "루이지 보케리니"
+    },
+    "birth": {
+      "date": "1743-02-19",
+      "place": "Lucca"
+    },
+    "death": {
+      "date": "1805-05-28",
+      "place": "Madrid"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0011",
+    "name": {
+      "display": "Alexander Borodin",
+      "native": "Александр Бородин",
+      "kor": "알렉산드르 보로딘"
+    },
+    "birth": {
+      "date": "1833-11-12",
+      "place": "Saint Petersburg"
+    },
+    "death": {
+      "date": "1887-02-27",
+      "place": "Saint Petersburg"
+    },
+    "nationality": [
+      "Russia"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0012",
+    "name": {
+      "display": "Johannes Brahms",
+      "native": "Johannes Brahms",
+      "kor": "요하네스 브람스"
+    },
+    "birth": {
+      "date": "1833-05-07",
+      "place": "Hamburg"
+    },
+    "death": {
+      "date": "1897-04-03",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0013",
+    "name": {
+      "display": "Max Bruch",
+      "native": "Max Bruch",
+      "kor": "막스 브루흐"
+    },
+    "birth": {
+      "date": "1838-01-06",
+      "place": "Cologne"
+    },
+    "death": {
+      "date": "1920-10-02",
+      "place": "Berlin"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0014",
+    "name": {
+      "display": "Anton Bruckner",
+      "native": "Anton Bruckner",
+      "kor": "안톤 브루크너"
+    },
+    "birth": {
+      "date": "1824-09-04",
+      "place": "Ansfelden"
+    },
+    "death": {
+      "date": "1896-10-11",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0015",
+    "name": {
+      "display": "Benjamin Britten",
+      "native": "Benjamin Britten",
+      "kor": "벤저민 브리튼"
+    },
+    "birth": {
+      "date": "1913-11-22",
+      "place": "Lowestoft"
+    },
+    "death": {
+      "date": "1976-12-04",
+      "place": "Aldeburgh"
+    },
+    "nationality": [
+      "United Kingdom"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0016",
+    "name": {
+      "display": "Luigi Cherubini",
+      "native": "Luigi Cherubini",
+      "kor": "루이지 케루비니"
+    },
+    "birth": {
+      "date": "1760-09-14",
+      "place": "Florence"
+    },
+    "death": {
+      "date": "1842-03-15",
+      "place": "Paris"
+    },
+    "nationality": [
+      "Italy",
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0017",
+    "name": {
+      "display": "Frédéric Chopin",
+      "native": "Fryderyk Chopin",
+      "kor": "프레데리크 쇼팽"
+    },
+    "birth": {
+      "date": "1810",
+      "place": "Żelazowa Wola"
+    },
+    "death": {
+      "date": "1849-10-17",
+      "place": "Paris"
+    },
+    "nationality": [
+      "Poland"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0018",
+    "name": {
+      "display": "Arcangelo Corelli",
+      "native": "Arcangelo Corelli",
+      "kor": "아르칸젤로 코렐리"
+    },
+    "birth": {
+      "date": "1653-02-17",
+      "place": "Fusignano"
+    },
+    "death": {
+      "date": "1713-01-08",
+      "place": "Rome"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0019",
+    "name": {
+      "display": "Claude Debussy",
+      "native": "Claude Debussy",
+      "kor": "클로드 드뷔시"
+    },
+    "birth": {
+      "date": "1862-08-22",
+      "place": "Saint-Germain-en-Laye"
+    },
+    "death": {
+      "date": "1918-03-25",
+      "place": "Paris"
+    },
+    "nationality": [
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0020",
+    "name": {
+      "display": "Léo Delibes",
+      "native": "Léo Delibes",
+      "kor": "레오 들리브"
+    },
+    "birth": {
+      "date": "1836-02-21",
+      "place": "La Flèche"
+    },
+    "death": {
+      "date": "1891-01-16",
+      "place": "Paris"
+    },
+    "nationality": [
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0021",
+    "name": {
+      "display": "Antonín Dvořák",
+      "native": "Antonín Dvořák",
+      "kor": "안토닌 드보르자크"
+    },
+    "birth": {
+      "date": "1841-09-08",
+      "place": "Nelahozeves"
+    },
+    "death": {
+      "date": "1904-05-01",
+      "place": "Prague"
+    },
+    "nationality": [
+      "Czechia"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0022",
+    "name": {
+      "display": "César Franck",
+      "native": "César Franck",
+      "kor": "세자르 프랑크"
+    },
+    "birth": {
+      "date": "1822-12-10",
+      "place": "Liège"
+    },
+    "death": {
+      "date": "1890-11-08",
+      "place": "Paris"
+    },
+    "nationality": [
+      "Belgium",
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0023",
+    "name": {
+      "display": "Charles Gounod",
+      "native": "Charles Gounod",
+      "kor": "샤를 구노"
+    },
+    "birth": {
+      "date": "1818-06-17",
+      "place": "Paris"
+    },
+    "death": {
+      "date": "1893-10-18",
+      "place": "Saint-Cloud"
+    },
+    "nationality": [
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0024",
+    "name": {
+      "display": "Edvard Grieg",
+      "native": "Edvard Grieg",
+      "kor": "에드바르 그리그"
+    },
+    "birth": {
+      "date": "1843-06-15",
+      "place": "Bergen"
+    },
+    "death": {
+      "date": "1907-09-04",
+      "place": "Bergen"
+    },
+    "nationality": [
+      "Norway"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0025",
+    "name": {
+      "display": "George Frideric Handel",
+      "native": "Georg Friedrich Händel",
+      "kor": "게오르크 프리드리히 헨델"
+    },
+    "birth": {
+      "date": "1685-03-05",
+      "place": "Halle"
+    },
+    "death": {
+      "date": "1759-04-14",
+      "place": "London"
+    },
+    "nationality": [
+      "Germany",
+      "United Kingdom"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0026",
+    "name": {
+      "display": "Joseph Haydn",
+      "native": "Joseph Haydn",
+      "kor": "요제프 하이든"
+    },
+    "birth": {
+      "date": "1732",
+      "place": "Rohrau"
+    },
+    "death": {
+      "date": "1809-05-31",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0027",
+    "name": {
+      "display": "Paul Hindemith",
+      "native": "Paul Hindemith",
+      "kor": "파울 힌데미트"
+    },
+    "birth": {
+      "date": "1895-11-16",
+      "place": "Hanau"
+    },
+    "death": {
+      "date": "1963-12-28",
+      "place": "Frankfurt"
+    },
+    "nationality": [
+      "Germany",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0028",
+    "name": {
+      "display": "Gustav Holst",
+      "native": "Gustav Holst",
+      "kor": "구스타프 홀스트"
+    },
+    "birth": {
+      "date": "1874-09-21",
+      "place": "Cheltenham"
+    },
+    "death": {
+      "date": "1934-05-25",
+      "place": "London"
+    },
+    "nationality": [
+      "United Kingdom"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0029",
+    "name": {
+      "display": "Arthur Honegger",
+      "native": "Arthur Honegger",
+      "kor": "아르튀르 오네게르"
+    },
+    "birth": {
+      "date": "1892-03-10",
+      "place": "Le Havre"
+    },
+    "death": {
+      "date": "1955-11-27",
+      "place": "Paris"
+    },
+    "nationality": [
+      "Switzerland"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0030",
+    "name": {
+      "display": "Johann Nepomuk Hummel",
+      "native": "Johann Nepomuk Hummel",
+      "kor": "요한 네포무크 훔멜"
+    },
+    "birth": {
+      "date": "1778-11-14",
+      "place": "Bratislava"
+    },
+    "death": {
+      "date": "1837-10-17",
+      "place": "Weimar"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0031",
+    "name": {
+      "display": "Engelbert Humperdinck",
+      "native": "Engelbert Humperdinck",
+      "kor": "엥겔베르트 훔퍼딩크"
+    },
+    "birth": {
+      "date": "1854-09-01",
+      "place": "Siegburg"
+    },
+    "death": {
+      "date": "1921-09-27",
+      "place": "Neustrelitz"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0032",
+    "name": {
+      "display": "Zoltán Kodály",
+      "native": "Kodály Zoltán",
+      "kor": "졸탄 코다이"
+    },
+    "birth": {
+      "date": "1882-12-16",
+      "place": "Kecskemét"
+    },
+    "death": {
+      "date": "1967-03-06",
+      "place": "Budapest"
+    },
+    "nationality": [
+      "Hungary"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0033",
+    "name": {
+      "display": "Franz Lehár",
+      "native": "Lehár Ferenc",
+      "kor": "프란츠 레하르"
+    },
+    "birth": {
+      "date": "1870-04-30",
+      "place": "Komárno"
+    },
+    "death": {
+      "date": "1948-10-24",
+      "place": "Bad Ischl"
+    },
+    "nationality": [
+      "Hungary",
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0034",
+    "name": {
+      "display": "Franz Liszt",
+      "native": "Liszt Ferenc",
+      "kor": "프란츠 리스트"
+    },
+    "birth": {
+      "date": "1811-10-22",
+      "place": "Raiding"
+    },
+    "death": {
+      "date": "1886-07-31",
+      "place": "Bayreuth"
+    },
+    "nationality": [
+      "Hungary"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0035",
+    "name": {
+      "display": "Pietro Locatelli",
+      "native": "Pietro Locatelli",
+      "kor": "피에트로 로카텔리"
+    },
+    "birth": {
+      "date": "1695-09-03",
+      "place": "Bergamo"
+    },
+    "death": {
+      "date": "1764-03-30",
+      "place": "Amsterdam"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0036",
+    "name": {
+      "display": "Gustav Mahler",
+      "native": "Gustav Mahler",
+      "kor": "구스타프 말러"
+    },
+    "birth": {
+      "date": "1860-07-07",
+      "place": "Kaliště"
+    },
+    "death": {
+      "date": "1911-05-18",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0037",
+    "name": {
+      "display": "Francesco Manfredini",
+      "native": "Francesco Manfredini",
+      "kor": "프란체스코 만프레디니"
+    },
+    "birth": {
+      "date": "1684-06",
+      "place": "Pistoia"
+    },
+    "death": {
+      "date": "1762-10-06",
+      "place": "Pistoia"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0038",
+    "name": {
+      "display": "Felix Mendelssohn",
+      "native": "Felix Mendelssohn Bartholdy",
+      "kor": "펠릭스 멘델스존"
+    },
+    "birth": {
+      "date": "1809-02-03",
+      "place": "Hamburg"
+    },
+    "death": {
+      "date": "1847-11-04",
+      "place": "Leipzig"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0039",
+    "name": {
+      "display": "Leopold Mozart",
+      "native": "Leopold Mozart",
+      "kor": "레오폴트 모차르트"
+    },
+    "birth": {
+      "date": "1719-11-14",
+      "place": "Augsburg"
+    },
+    "death": {
+      "date": "1787-05-28",
+      "place": "Salzburg"
+    },
+    "nationality": [
+      "Germany",
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0040",
+    "name": {
+      "display": "Wolfgang Amadeus Mozart",
+      "native": "Wolfgang Amadeus Mozart",
+      "kor": "볼프강 아마데우스 모차르트"
+    },
+    "birth": {
+      "date": "1756-01-27",
+      "place": "Salzburg"
+    },
+    "death": {
+      "date": "1791-12-05",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0041",
+    "name": {
+      "display": "Modest Mussorgsky",
+      "native": "Модест Мусоргский",
+      "kor": "모데스트 무소륵스키"
+    },
+    "birth": {
+      "date": "1839-03-21",
+      "place": "Karevo"
+    },
+    "death": {
+      "date": "1881-03-28",
+      "place": "Saint Petersburg"
+    },
+    "nationality": [
+      "Russia"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0042",
+    "name": {
+      "display": "Carl Nielsen",
+      "native": "Carl Nielsen",
+      "kor": "칼 닐센"
+    },
+    "birth": {
+      "date": "1865-06-09",
+      "place": "Sortelung"
+    },
+    "death": {
+      "date": "1931-10-03",
+      "place": "Copenhagen"
+    },
+    "nationality": [
+      "Denmark"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0043",
+    "name": {
+      "display": "Jacques Offenbach",
+      "native": "Jacques Offenbach",
+      "kor": "자크 오펜바흐"
+    },
+    "birth": {
+      "date": "1819-06-20",
+      "place": "Cologne"
+    },
+    "death": {
+      "date": "1880-10-05",
+      "place": "Paris"
+    },
+    "nationality": [
+      "Germany",
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0044",
+    "name": {
+      "display": "Carl Orff",
+      "native": "Carl Orff",
+      "kor": "카를 오르프"
+    },
+    "birth": {
+      "date": "1895-07-10",
+      "place": "Munich"
+    },
+    "death": {
+      "date": "1982-03-29",
+      "place": "Munich"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0045",
+    "name": {
+      "display": "Johann Pachelbel",
+      "native": "Johann Pachelbel",
+      "kor": "요한 파헬벨"
+    },
+    "birth": {
+      "date": "1653-09",
+      "place": "Nuremberg"
+    },
+    "death": {
+      "date": "1706-03",
+      "place": "Nuremberg"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0046",
+    "name": {
+      "display": "Amilcare Ponchielli",
+      "native": "Amilcare Ponchielli",
+      "kor": "아밀카레 폰키엘리"
+    },
+    "birth": {
+      "date": "1834-08-31",
+      "place": "Paderno Ponchielli"
+    },
+    "death": {
+      "date": "1886-01-16",
+      "place": "Milan"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0047",
+    "name": {
+      "display": "Sergei Prokofiev",
+      "native": "Сергей Прокофьев",
+      "kor": "세르게이 프로코피예프"
+    },
+    "birth": {
+      "date": "1891-04",
+      "place": "Sontsivka"
+    },
+    "death": {
+      "date": "1953-03-05",
+      "place": "Moscow"
+    },
+    "nationality": [
+      "Russia"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0048",
+    "name": {
+      "display": "Giacomo Puccini",
+      "native": "Giacomo Puccini",
+      "kor": "자코모 푸치니"
+    },
+    "birth": {
+      "date": "1858-12-22",
+      "place": "Lucca"
+    },
+    "death": {
+      "date": "1924-11-29",
+      "place": "Brussels"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0049",
+    "name": {
+      "display": "Sergei Rachmaninoff",
+      "native": "Сергей Рахманинов",
+      "kor": "세르게이 라흐마니노프"
+    },
+    "birth": {
+      "date": "1873-04-01",
+      "place": "Semyonovo"
+    },
+    "death": {
+      "date": "1943-03-28",
+      "place": "Beverly Hills"
+    },
+    "nationality": [
+      "Russia"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0050",
+    "name": {
+      "display": "Maurice Ravel",
+      "native": "Maurice Ravel",
+      "kor": "모리스 라벨"
+    },
+    "birth": {
+      "date": "1875-03-07",
+      "place": "Ciboure"
+    },
+    "death": {
+      "date": "1937-12-28",
+      "place": "Paris"
+    },
+    "nationality": [
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0051",
+    "name": {
+      "display": "Ottorino Respighi",
+      "native": "Ottorino Respighi",
+      "kor": "오토리노 레스피기"
+    },
+    "birth": {
+      "date": "1879-07-09",
+      "place": "Bologna"
+    },
+    "death": {
+      "date": "1936-04-18",
+      "place": "Rome"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0052",
+    "name": {
+      "display": "Nikolai Rimsky-Korsakov",
+      "native": "Николай Римский-Корсаков",
+      "kor": "니콜라이 림스키코르사코프"
+    },
+    "birth": {
+      "date": "1844-03-18",
+      "place": "Tikhvin"
+    },
+    "death": {
+      "date": "1908-06-21",
+      "place": "Lyubensk"
+    },
+    "nationality": [
+      "Russia"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0053",
+    "name": {
+      "display": "Gioachino Rossini",
+      "native": "Gioachino Rossini",
+      "kor": "조아키노 로시니"
+    },
+    "birth": {
+      "date": "1792-02-29",
+      "place": "Pesaro"
+    },
+    "death": {
+      "date": "1868-11-13",
+      "place": "Paris"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0054",
+    "name": {
+      "display": "Albert Roussel",
+      "native": "Albert Roussel",
+      "kor": "알베르 루셀"
+    },
+    "birth": {
+      "date": "1869-04-05",
+      "place": "Tourcoing"
+    },
+    "death": {
+      "date": "1937-08-23",
+      "place": "Royan"
+    },
+    "nationality": [
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0055",
+    "name": {
+      "display": "Camille Saint-Saëns",
+      "native": "Camille Saint-Saëns",
+      "kor": "카미유 생상스"
+    },
+    "birth": {
+      "date": "1835-10-09",
+      "place": "Paris"
+    },
+    "death": {
+      "date": "1921-12-16",
+      "place": "Algiers"
+    },
+    "nationality": [
+      "France"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0056",
+    "name": {
+      "display": "Arnold Schoenberg",
+      "native": "Arnold Schönberg",
+      "kor": "아르놀트 쇤베르크"
+    },
+    "birth": {
+      "date": "1874-09-13",
+      "place": "Vienna"
+    },
+    "death": {
+      "date": "1951-07-13",
+      "place": "Los Angeles"
+    },
+    "nationality": [
+      "Austria",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0057",
+    "name": {
+      "display": "Franz Schubert",
+      "native": "Franz Schubert",
+      "kor": "프란츠 슈베르트"
+    },
+    "birth": {
+      "date": "1797-01-31",
+      "place": "Vienna"
+    },
+    "death": {
+      "date": "1828-11-19",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0058",
+    "name": {
+      "display": "Robert Schumann",
+      "native": "Robert Schumann",
+      "kor": "로베르트 슈만"
+    },
+    "birth": {
+      "date": "1810-06-08",
+      "place": "Zwickau"
+    },
+    "death": {
+      "date": "1856-07-29",
+      "place": "Endenich"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0059",
+    "name": {
+      "display": "Dmitri Shostakovich",
+      "native": "Дмитрий Шостакович",
+      "kor": "드미트리 쇼스타코비치"
+    },
+    "birth": {
+      "date": "1906-09-25",
+      "place": "Saint Petersburg"
+    },
+    "death": {
+      "date": "1975-08-09",
+      "place": "Moscow"
+    },
+    "nationality": [
+      "Russia"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0060",
+    "name": {
+      "display": "Jean Sibelius",
+      "native": "Jean Sibelius",
+      "kor": "장 시벨리우스"
+    },
+    "birth": {
+      "date": "1865-12-08",
+      "place": "Hämeenlinna"
+    },
+    "death": {
+      "date": "1957-09-20",
+      "place": "Järvenpää"
+    },
+    "nationality": [
+      "Finland"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0061",
+    "name": {
+      "display": "Bedřich Smetana",
+      "native": "Bedřich Smetana",
+      "kor": "베드르지흐 스메타나"
+    },
+    "birth": {
+      "date": "1824-03-02",
+      "place": "Litomyšl"
+    },
+    "death": {
+      "date": "1884-05-12",
+      "place": "Prague"
+    },
+    "nationality": [
+      "Czechia"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0062",
+    "name": {
+      "display": "Richard Strauss",
+      "native": "Richard Strauss",
+      "kor": "리하르트 슈트라우스"
+    },
+    "birth": {
+      "date": "1864-06-11",
+      "place": "Munich"
+    },
+    "death": {
+      "date": "1949-09-08",
+      "place": "Garmisch-Partenkirchen"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0063",
+    "name": {
+      "display": "Johann Strauss II",
+      "native": "Johann Strauss Sohn",
+      "kor": "요한 슈트라우스 2세"
+    },
+    "birth": {
+      "date": "1825-10-25",
+      "place": "Vienna"
+    },
+    "death": {
+      "date": "1899-06-03",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0064",
+    "name": {
+      "display": "Igor Stravinsky",
+      "native": "Игорь Стравинский",
+      "kor": "이고르 스트라빈스키"
+    },
+    "birth": {
+      "date": "1882-06-17",
+      "place": "Lomonosov"
+    },
+    "death": {
+      "date": "1971-04-06",
+      "place": "New York City"
+    },
+    "nationality": [
+      "Russia",
+      "France",
+      "United States"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0065",
+    "name": {
+      "display": "Franz von Suppé",
+      "native": "Franz von Suppé",
+      "kor": "프란츠 폰 주페"
+    },
+    "birth": {
+      "date": "1819-04-18",
+      "place": "Split"
+    },
+    "death": {
+      "date": "1895-05-21",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0066",
+    "name": {
+      "display": "Georg Philipp Telemann",
+      "native": "Georg Philipp Telemann",
+      "kor": "게오르크 필리프 텔레만"
+    },
+    "birth": {
+      "date": "1681-03-24",
+      "place": "Magdeburg"
+    },
+    "death": {
+      "date": "1767-06-25",
+      "place": "Hamburg"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0067",
+    "name": {
+      "display": "Pyotr Ilyich Tchaikovsky",
+      "native": "Пётр Ильич Чайковский",
+      "kor": "표트르 일리치 차이콥스키"
+    },
+    "birth": {
+      "date": "1840-05-07",
+      "place": "Votkinsk"
+    },
+    "death": {
+      "date": "1893-11-06",
+      "place": "Saint Petersburg"
+    },
+    "nationality": [
+      "Russia"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0068",
+    "name": {
+      "display": "Giuseppe Torelli",
+      "native": "Giuseppe Torelli",
+      "kor": "주세페 토렐리"
+    },
+    "birth": {
+      "date": "1658-04-22",
+      "place": "Verona"
+    },
+    "death": {
+      "date": "1709-02-08",
+      "place": "Bologna"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0069",
+    "name": {
+      "display": "Giuseppe Verdi",
+      "native": "Giuseppe Verdi",
+      "kor": "주세페 베르디"
+    },
+    "birth": {
+      "date": "1813-10",
+      "place": "Le Roncole"
+    },
+    "death": {
+      "date": "1901-01-27",
+      "place": "Milan"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0070",
+    "name": {
+      "display": "Antonio Vivaldi",
+      "native": "Antonio Vivaldi",
+      "kor": "안토니오 비발디"
+    },
+    "birth": {
+      "date": "1678-03-04",
+      "place": "Venice"
+    },
+    "death": {
+      "date": "1741-07-28",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Italy"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0071",
+    "name": {
+      "display": "Ralph Vaughan Williams",
+      "native": "Ralph Vaughan Williams",
+      "kor": "레이프 본 윌리엄스"
+    },
+    "birth": {
+      "date": "1872-10-12",
+      "place": "Down Ampney"
+    },
+    "death": {
+      "date": "1958-08-26",
+      "place": "London"
+    },
+    "nationality": [
+      "United Kingdom"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0072",
+    "name": {
+      "display": "William Walton",
+      "native": "William Walton",
+      "kor": "윌리엄 월턴"
+    },
+    "birth": {
+      "date": "1902-03-29",
+      "place": "Oldham"
+    },
+    "death": {
+      "date": "1983-03-08",
+      "place": "Ischia"
+    },
+    "nationality": [
+      "United Kingdom"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0073",
+    "name": {
+      "display": "Carl Maria von Weber",
+      "native": "Carl Maria von Weber",
+      "kor": "카를 마리아 폰 베버"
+    },
+    "birth": {
+      "date": "1786-11",
+      "place": "Eutin"
+    },
+    "death": {
+      "date": "1826-06-05",
+      "place": "London"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0074",
+    "name": {
+      "display": "Anton Webern",
+      "native": "Anton Webern",
+      "kor": "안톤 베베른"
+    },
+    "birth": {
+      "date": "1883-12-03",
+      "place": "Vienna"
+    },
+    "death": {
+      "date": "1945-09-15",
+      "place": "Mittersill"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0075",
+    "name": {
+      "display": "Richard Wagner",
+      "native": "Richard Wagner",
+      "kor": "리하르트 바그너"
+    },
+    "birth": {
+      "date": "1813-05-22",
+      "place": "Leipzig"
+    },
+    "death": {
+      "date": "1883-02-13",
+      "place": "Venice"
+    },
+    "nationality": [
+      "Germany"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0076",
+    "name": {
+      "display": "Johann Strauss I",
+      "native": "Johann Strauss Vater",
+      "kor": "요한 슈트라우스 1세"
+    },
+    "birth": {
+      "date": "1804-03-14",
+      "place": "Vienna"
+    },
+    "death": {
+      "date": "1849-09-25",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0077",
+    "name": {
+      "display": "Josef Strauss",
+      "native": "Josef Strauss",
+      "kor": "요제프 슈트라우스"
+    },
+    "birth": {
+      "date": "1827-08-20",
+      "place": "Vienna"
+    },
+    "death": {
+      "date": "1870-07-22",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0078",
+    "name": {
+      "display": "Theodor Berger",
+      "native": "Theodor Berger",
+      "kor": "테오도어 베르거"
+    },
+    "birth": {
+      "date": "1905-05-18",
+      "place": "Traismauer"
+    },
+    "death": {
+      "date": "1992-08-21",
+      "place": "Vienna"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  },
+  {
+    "id": "cmp_0079",
+    "name": {
+      "display": "Gottfried von Einem",
+      "native": "Gottfried von Einem",
+      "kor": "고트프리트 폰 아이넴"
+    },
+    "birth": {
+      "date": "1918-01-24",
+      "place": "Bern"
+    },
+    "death": {
+      "date": "1996-07-12",
+      "place": "Oberdürnbach"
+    },
+    "nationality": [
+      "Austria"
+    ],
+    "image": null
+  }
+]
